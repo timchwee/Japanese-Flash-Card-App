@@ -1,0 +1,9 @@
+I want to build a Japanese Flashcard App.
+In the JP_3000.xlsx file uploaded are 3000 japanese words.
+
+I want to:
+
+1. have it flash 10 'japanese', 'romanji' and 'translations' per day. As per the column.
+2. there is a 'day' column that represents each day.
+3. it flashes 1 word at a time, and there will be a 'back' button on the left and a 'next' button on the right.
+4. on the 10th card for the day, the 'back' button on the left will be replaced with the 'restart day N' button  and the 'next' right button will be replaced with a 'day N' button (n representing the next day number)
