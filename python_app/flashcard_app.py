@@ -3,11 +3,11 @@ import streamlit as st
 import os
 
 # --- Configuration ---
-CSV_FILE_NAME = "JP_3000.xlsx" # Keep this name as it's used in the code, assuming the provided CSV will be renamed or this is a placeholder
+CSV_FILE_NAME = "JP_3000.xlsx"
 PROGRESS_FILE_NAME = "progress.txt" # New: File to store persistent progress
 WORDS_PER_DAY = 10
 COLUMN_JAPANESE = 'japanese'
-COLUMN_PRONUNCIATION = 'romanji'
+COLUMN_PRONUNCIATION = 'pronunciation'
 COLUMN_TRANSLATION = 'translation'
 COLUMN_DAY = 'day'
 
@@ -41,40 +41,23 @@ def save_progress(file_path, day_number):
 
 # --- Helper Functions for Flashcards ---
 
-@st.cache_data # Cache data loading to avoid re-reading the CSV on every rerun
+@st.cache_data # Cache data loading to avoid re-reading the Excel on every rerun
 def load_data(file_path):
     """
-    Loads the flashcard data from a CSV file.
-    Expects columns: 'japanese', 'romanji', 'translation', 'day'.
+    Loads the flashcard data from an Excel file.
+    Expects columns: 'japanese', 'pronunciation', 'translation', 'day'.
     """
     if not os.path.exists(file_path):
         st.error(f"Error: The file '{file_path}' was not found. Please ensure it's in the same directory as this script.")
         st.stop()
 
-    try:
-        # Changed from pd.read_excel to pd.read_csv and added encoding='latin1'
-        df = pd.read_csv(file_path, encoding='latin1')
-    except UnicodeDecodeError:
-        st.error("Error: Could not decode the CSV file with 'latin1' encoding. Trying 'shift_jis'...")
-        try:
-            df = pd.read_csv(file_path, encoding='shift_jis')
-        except UnicodeDecodeError:
-            st.error("Error: Could not decode the CSV file with 'shift_jis' encoding. Trying 'euc-jp'...")
-            try:
-                df = pd.read_csv(file_path, encoding='euc-jp')
-            except UnicodeDecodeError as e:
-                st.error(f"Error: Could not decode the CSV file with 'euc-jp' encoding either. Please check the file's actual encoding. Original error: {e}")
-                st.stop()
-    except Exception as e:
-        st.error(f"An unexpected error occurred while loading the data: {e}")
-        st.stop()
-
+    df = pd.read_excel(file_path)
 
     required_columns = [COLUMN_JAPANESE, COLUMN_PRONUNCIATION, COLUMN_TRANSLATION, COLUMN_DAY]
     for col in required_columns:
         if col not in df.columns:
-            st.error(f"Error: Missing required column '{col}' in your CSV file.")
-            st.warning("Please ensure your CSV sheet has columns named 'japanese', 'romanji', 'translation', and 'day'.")
+            st.error(f"Error: Missing required column '{col}' in your Excel file.")
+            st.warning("Please ensure your Excel sheet has columns named 'japanese', 'pronunciation', 'translation', and 'day'.")
             st.stop()
 
     df = df.sort_values(by=COLUMN_DAY).reset_index(drop=True)

@@ -1,0 +1,3000 @@
+week	day	japanese	romanji	translation
+1	1	行く	iku	go
+1	1	見る	miru	see, look at
+1	1	多い	ooi	a lot of, many
+1	1	家	ie	home, household
+1	1	これ	kore	this, this one
+1	1	それ	sore	that, that one
+1	1	私	watashi	I
+1	1	仕事	shigoto	work, job
+1	1	いつ	itsu	when
+1	1	する	suru	do, make
+1	2	出る	deru	go out, leave
+1	2	使う	tsukau	use, make use of
+1	2	所	tokoro	place
+1	2	作る	tsukuru	make, create
+1	2	思う	omou	think
+1	2	持つ	motsu	have, possess
+1	2	買う	kau	buy
+1	2	時間	jikan	time, hour
+1	2	知る	shiru	know
+1	2	同じ	onaji	same, identical
+1	3	今	ima	now
+1	3	新しい	atarashii	new
+1	3	なる	naru	become
+1	3	まだ	mada	(not) yet, still
+1	3	あと	ato	after
+1	3	聞く	kiku	hear, ask
+1	3	言う	iu	say, tell
+1	3	少ない	sukunai	few, little
+1	3	高い	takai	high, tall
+1	3	子供	kodomo	child
+1	4	そう	sou	so, that way
+1	4	もう	mou	already, yet
+1	4	学生	gakusei	student
+1	4	熱い	atsui	hot (to touch)
+1	4	どうぞ	douzo	please
+1	4	午後	gogo	afternoon, p.m.
+1	4	長い	nagai	long
+1	4	本	hon	book, volume
+1	4	今年	kotoshi	this year (colloquial)
+1	4	よく	yoku	often, well
+1	5	彼女	kanojo	she, one’s girlfriend
+1	5	どう	dou	how, what
+1	5	言葉	kotoba	word, language
+1	5	顔	kao	face
+1	5	終わる	owaru	finish, end
+1	5	一つ	hitotsu	one (thing)
+1	5	あげる	ageru	give, offer (colloquial)
+1	5	こう	kou	like this, such
+1	5	学校	gakkou	school
+1	5	くれる	kureru	be given
+1	6	始める	hajimeru	start (something)
+1	6	起きる	okiru	get up, get out of bed
+1	6	春	haru	spring
+1	6	午前	gozen	morning, a.m.
+1	6	別	betsu	another, different
+1	6	どこ	doko	where
+1	6	部屋	heya	room
+1	6	若い	wakai	young
+1	6	車	kuruma	car, automobile
+1	6	置く	oku	put, place
+1	7	住む	sumu	live, reside
+1	7	働く	hataraku	work
+1	7	難しい	muzukashii	difficult
+1	7	先生	sensei	teacher
+1	7	立つ	tatsu	stand, rise
+1	7	呼ぶ	yobu	call, name
+1	7	大学	daigaku	university, college
+1	7	安い	yasui	cheap, inexpensive
+1	7	もっと	motto	more
+1	7	帰る	kaeru	go back home
+2	1	分かる	wakaru	understand
+2	1	広い	hiroi	wide, big
+2	1	数	suu	number
+2	1	近い	chikai	near, close
+2	1	そこ	soko	there
+2	1	走る	hashiru	run
+2	1	入れる	ireru	put in
+2	1	教える	oshieru	teach, tell
+2	1	歩く	aruku	walk, go on foot
+2	1	会う	au	meet
+2	2	書く	kaku	write
+2	2	頭	atama	head
+2	2	売る	uru	sell
+2	2	大好き	daisuki	like (something) a lot
+2	2	体	karada	body, physique
+2	2	直ぐ	sugu	at once, soon
+2	2	飛ぶ	tobu	fly
+2	2	とても	totemo	very (colloquial)
+2	2	誰	dare	who
+2	2	好き	suki	favorite, liked
+2	3	読む	yomu	read
+2	3	次	tsugi	next
+2	3	あなた	anata	you
+2	3	飲む	nomu	drink
+2	3	古い	furui	old
+2	3	質問	shitsumon	question
+2	3	今日	kyou	today (colloquial)
+2	3	友達	tomodachi	friend, companion (colloquial)
+2	3	早い	hayai	early
+2	3	どれ	dore	what, which
+2	4	美しい	utsukushii	beautiful
+2	4	いつも	itsumo	always (colloquial)
+2	4	足	ashi	leg, foot
+2	4	起こす	okosu	wake (someone) up
+2	4	見せる	miseru	show
+2	4	娘	musume	daughter, girl
+2	4	楽しむ	tanoshimu	enjoy
+2	4	色	iro	color
+2	4	みんな	minna	everybody (colloquial)
+2	4	取る	toru	take, get
+2	5	勉強	benkyou	study
+2	5	できる	dekiru	can do, be good at
+2	5	短い	mijikai	short, brief
+2	5	落ちる	ochiru	fall, come down
+2	5	息子	musuko	son
+2	5	白い	shiroi	white, blank
+2	5	飛行機	hikouki	airplane
+2	5	病気	byouki	illness
+2	5	冬	fuyu	winter
+2	5	年	toshi	year, age
+2	6	重い	omoi	heavy
+2	6	胸	mune	chest, breast
+2	6	払う	harau	pay (money, respect, attention, etc.)
+2	6	軽い	karui	light (of weight)
+2	6	見つける	mitsukeru	find
+2	6	忘れる	wasureru	forget, leave behind
+2	6	酒	sake	alcohol, rice wine
+2	6	どちら	dochira	which (polite)
+2	6	姉	ane	(one’s own) older sister
+2	6	覚える	oboeru	memorize, learn
+2	7	狭い	semai	narrow, small
+2	7	赤い	akai	red
+2	7	着る	kiru	wear, put on
+2	7	笑う	warau	laugh, smile
+2	7	一番	ichiban	most, best
+2	7	授業	jugyou	class session, lecture
+2	7	週	shuu	week
+2	7	漢字	kanji	Chinese character
+2	7	自転車	jitensha	bicycle
+2	7	電車	densha	train
+3	1	探す	sagasu	search for, look for
+3	1	紙	kami	paper
+3	1	歌う	utau	sing
+3	1	遅い	osoi	slow, late
+3	1	首	kubi	neck
+3	1	速い	hayai	fast
+3	1	一緒に	issho ni	together, at the same time
+3	1	今月	kongetsu	this month
+3	1	遊ぶ	asobu	play
+3	1	遠い	tooi	far, distant
+3	2	弱い	yowai	weak
+3	2	耳	mimi	ear
+3	2	座る	suwaru	sit, sit down
+3	2	右	migi	right
+3	2	浴びる	abiru	take (a shower)
+3	2	肩	kata	shoulder
+3	2	寝る	neru	lie down and sleep, go to sleep
+3	2	消す	kesu	switch off, turn off
+3	2	元気	genki	healthy, energetic
+3	2	全部	zenbu	all, whole
+3	3	去年	kyonen	last year (colloquial)
+3	3	引く	hiku	draw, pull
+3	3	図書館	toshokan	library
+3	3	上げる	ageru	raise, lift
+3	3	緑	midori	green
+3	3	腕	ude	arm
+3	3	ドア	doa	door (loan word)
+3	3	女の子	onna no ko	little girl
+3	3	男の子	otoko no ko	boy
+3	3	私たち	watashitachi	we (colloquial)
+3	4	近く	chikaku	near, close to
+3	4	やる	yaru	do, give
+3	4	かなり	kanari	fairly, rather
+3	4	国	kuni	country
+3	4	起こる	okoru	happen
+3	4	秋	aki	autumn, fall
+3	4	送る	okuru	send
+3	4	死ぬ	shinu	die
+3	4	気持ち	kimochi	feeling, sensation
+3	4	乗る	noru	ride, take
+3	5	いる	iru	be present, stay
+3	5	木	ki	tree, wood
+3	5	開ける	akeru	open, unlock (doors, windows, etc.)
+3	5	閉める	shimeru	shut, close (doors, windows, etc.)
+3	5	続く	tsuzuku	continue, follow
+3	5	お医者さん	oishasan	doctor (polite)
+3	5	円	en	Japanese yen
+3	5	ここ	koko	here
+3	5	待つ	matsu	wait, wait for
+3	5	低い	hikui	low, short
+3	6	もらう	morau	receive
+3	6	食べる	taberu	eat
+3	6	兄	ani	(one’s own) older brother
+3	6	名前	namae	name
+3	6	夫	otto	husband
+3	6	一	ichi	one
+3	6	結婚	kekkon	marriage
+3	6	親	oya	parent
+3	6	話す	hanasu	speak, talk
+3	6	少し	sukoshi	a bit, a little while
+3	7	閉じる	tojiru	shut, close (books, eyes, etc.)
+3	7	時	toki	time, moment
+3	7	米	kome	rice (grain)
+3	7	切る	kiru	cut
+3	7	楽しい	tanoshii	fun, enjoyable
+3	7	服	fuku	clothes (colloquial)
+3	7	後ろ	ushiro	back, behind
+3	7	嬉しい	ureshii	happy, glad
+3	7	腰	koshi	waist, lower back
+3	7	日曜日	nichiyoubi	Sunday
+4	1	昼	hiru	daytime, midday
+4	1	お母さん	okaasan	mother (colloquial)
+4	1	大学生	daigakusei	university student
+4	1	終わり	owari	end, conclusion
+4	1	背	se	height, stature
+4	1	手伝う	tetsudau	help, assist
+4	1	鼻	hana	nose
+4	1	起きる	okiru	occur, happen, wake up, get up
+4	1	載せる	noseru	place, put on
+4	1	悲しい	kanashii	sad
+4	2	しゃべる	shaberu	chat, talk
+4	2	近く	chikaku	in the near future, before long
+4	2	甘い	amai	sweet
+4	2	テーブル	te-buru	table
+4	2	食べ物	tabemono	food (colloquial)
+4	2	始まる	hajimaru	begin
+4	2	ゲーム	ge-mu	game
+4	2	十	juu	ten
+4	2	天気	tenki	weather
+4	2	暑い	atsui	hot (of weather)
+4	3	太い	futoi	thick, fat
+4	3	晩	ban	evening, night (from sunset to bedtime)
+4	3	土曜日	doyoubi	Saturday
+4	3	痛い	itai	sore, painful
+4	3	お父さん	otousan	father, dad (colloquial)
+4	3	多分	tabun	probably, perhaps
+4	3	時計	tokei	clock, watch
+4	3	泊まる	tomaru	stay overnight
+4	3	どうして	doushite	how come
+4	3	掛ける	kakeru	hang, put on
+4	4	曲がる	magaru	make a turn, turn
+4	4	お腹	onaka	stomach, belly
+4	4	ミーティング	mi-tingu	meeting
+4	4	嫌い	kirai	dislike (habitual)
+4	4	金曜日	kinyoubi	Friday
+4	4	要る	iru	need, require
+4	4	無い	nai	to not be
+4	4	風邪	kaze	cold (illness)
+4	4	黄色い	kiiroi	yellow
+4	4	優しい	yasashii	gentle, kind
+4	5	晴れる	hareru	be sunny, clear up
+4	5	汚い	kitanai	dirty
+4	5	茶色	chairo	brown
+4	5	空く	suku	be empty, become less crowded
+4	5	上る	noboru	go up, climb
+4	5	ご飯	gohan	meal, cooked rice
+4	5	日	nichi	counter for days
+4	5	髪の毛	kaminoke	hair, each single hair
+4	5	つける	tsukeru	switch on, turn on
+4	5	月曜日	getsuyoubi	Monday
+4	6	入る	hairu	enter
+4	6	カタカナ	katakana	katakana
+4	6	今週	konshuu	this week
+4	6	開く	hiraku	open (books, eyes, etc.)
+4	6	水	mizu	water
+4	6	あれ	are	that (over there)
+4	6	二	ni	two
+4	6	締める	shimeru	tighten, fasten
+4	6	まずい	mazui	bad (taste), distasteful
+4	6	平仮名	hiragana	hiragana
+4	7	曇る	kumoru	become cloudy
+4	7	触る	sawaru	touch, feel
+4	7	駄目	dame	no good
+4	7	飲み物	nomimono	beverage, drink
+4	7	木曜日	mokuyoubi	Thursday
+4	7	曜日	youbi	day of the week
+4	7	そば	soba	side, vicinity
+4	7	こっち	kocchi	here, this way (casual)
+4	7	火曜日	kayoubi	Tuesday
+4	7	渇く	kawaku	be thirsty
+5	1	三	san	three
+5	1	水曜日	suiyoubi	Wednesday
+5	1	二つ	futatsu	two (things)
+5	1	今晩	konban	this evening, tonight
+5	1	千	sen	thousand
+5	1	六日	muika	six days, sixth of the month
+5	1	お姉さん	onesan	older sister
+5	1	直る	naoru	be repaired, get fixed
+5	1	ちょっと	chotto	just a moment, just a little
+5	1	四	yon	four (Japanese origin)
+5	2	これから	korekara	from now on, after this
+5	2	考える	kangaeru	think, consider
+5	2	戻る	modoru	return to a point of departure
+5	2	変える	kaeru	change (something), alter
+5	2	朝	asa	morning
+5	2	歯	ha	tooth
+5	2	頑張る	ganbaru	work hard, do one’s best
+5	2	携帯電話	keitaidenwa	cellular phone
+5	2	雨	ame	rain
+5	2	金	kane	money (colloquial)
+5	3	易しい	yasashii	easy, simple (colloquial)
+5	3	お兄さん	oniisan	older brother
+5	3	大きい	ooki	big
+5	3	小さい	chiisai	small
+5	3	辛い	karai	spicy, hot
+5	3	八	hachi	eight
+5	3	あそこ	asoko	over there
+5	3	来る	kuru	come
+5	3	前	mae	front, before
+5	3	五日	itsuka	five days, fifth of the month
+5	4	いっぱい	ippai	full
+5	4	酸っぱい	suppai	sour
+5	4	違う	chigau	differ, be wrong
+5	4	細い	hosoi	thin, slender
+5	4	三つ	mittsu	three (things)
+5	4	八日	youka	eight days, eighth of the month
+5	4	高校生	koukousei	high school student
+5	4	上手	jouzu	good, skilled
+5	4	強い	tsuyoi	strong
+5	5	七	nana	seven (Japanese origin)
+5	5	二十日	hatsuka	20 days, 20th of the month
+5	5	左	hidari	left
+5	5	二日	futsuka	two days, second of the month
+5	5	四つ	yottsu	four (things)
+5	5	暖かい	atatakai	warm
+5	5	ある	aru	exist, there is
+5	5	いい	ii	good (informal/spoken form)
+5	5	上	ue	up, above
+5	5	駅	eki	train station
+5	6	美味しい	oishii	tasty
+5	6	昨日	kinou	yesterday (colloquial)
+5	6	綺麗	kirei	pretty, clean
+5	6	五	go	five
+5	6	九つ	kokonotsu	nine (things)
+5	6	お願い	onegai	favor
+5	6	答える	kotaeru	give an answer
+5	6	先	saki	ahead, first
+5	6	寒い	samui	cold (temperature of the air)
+5	6	四	shi	four (Chinese origin)
+5	7	三日	mikka	three days, third of the month
+5	7	下	shita	under, below
+5	7	大丈夫	daijoubu	all right, OK
+5	7	大人	otona	adult
+5	7	出す	dasu	take out
+5	7	父	chichi	(speaker’s) father
+5	7	母	haha	(speaker’s) mother
+5	7	月	tsuki	moon
+5	7	妹	imouto	younger sister
+5	7	冷たい	tsumetai	cold (to touch)
+6	1	弟	otouto	younger brother
+6	1	手	te	hand
+6	1	十日	tooka	ten days, tenth of the month
+6	1	口	kuchi	mouth
+6	1	夏	natsu	summer
+6	1	七つ	nanatsu	seven (things)
+6	1	時々	tokidoki	sometimes
+6	1	何	nani	what
+6	1	人	hito	person
+6	1	一人	hitori	one person
+6	2	一日	tsuitachi	first of the month
+6	2	九日	kokonoka	nine days, ninth of the month
+6	2	方	hou	direction, side
+6	2	他	hoka	other (Japanese origin)
+6	2	僕	boku	I, me (usually used by young males)
+6	2	欲しい	hoshii	want, desire (of the speaker)
+6	2	万	man	ten thousand
+6	2	見える	mieru	be visible, can see
+6	2	道	michi	street, way
+6	2	五つ	itsutsu	five (things)
+6	3	目	me	eye
+6	3	八つ	yattsu	eight (things)
+6	3	止める	tomeru	stop (a car…). 止める (yameru) give up
+6	3	四日	yokka	four days, fourth of the month
+6	3	夜	yoru	night (from sunset to sunrise)
+6	3	来年	rainen	next year
+6	3	六	roku	six
+6	3	悪い	warui	bad
+6	3	お手洗い	otearai	toilet, bathroom
+6	3	ご主人	goshujin	(someone else’s) husband
+6	4	本当に	hontouni	really, truly
+6	4	自分	jibun	self, oneself
+6	4	ため	tame	sake, purpose
+6	4	見つかる	mitsukaru	be found, be caught
+6	4	休む	yasumu	take a rest, take a break
+6	4	ゆっくり	yukkuri	slowly
+6	4	六つ	muttsu	six (things)
+6	4	花	hana	flower
+6	4	動く	ugoku	move
+6	4	線	sen	line
+6	5	七日	nanoka	seven days, seventh of the month
+6	5	以外	igai	except for
+6	5	男	otoko	man, male
+6	5	彼	kare	he, one’s boyfriend
+6	5	女	onna	woman
+6	5	妻	tsuma	woman
+6	5	百	hyaku	hundred
+6	5	辺	atari	vicinity
+6	5	店	mise	shop, store
+6	5	閉まる	shimaru	be shut, be closed
+6	6	問題	mondai	problem, question
+6	6	必要	hitsuyou	need, necessary
+6	6	もつ	motsu	last long, be durable
+6	6	開く	hiraku	open
+6	6	昨年	sakunen	last year (formal, often used in writing)
+6	6	治る	naoru	be cured, get well
+6	6	ドル	doru	dollar
+6	6	システム	shisutemu	system (loan word)
+6	6	以上	ijou	more than, not less than
+6	6	最近	saikin	recent, latest
+6	7	世界	sekai	world
+6	7	コンピューター	konpyu-ta-	computer
+6	7	やる	yaru	give (to an inferior)
+6	7	意味	imi	meaning, sense
+6	7	増える	fueru	increase, accrue
+6	7	選ぶ	erabu	choose, elect
+6	7	生活	seikatsu	life, living
+6	7	進める	susumeru	go ahead, proceed
+6	7	続ける	tsuzukeru	continue, keep up
+6	7	ほとんど	hotondo	almost, hardly
+7	1	会社	kaisha	company, corporation
+7	1	家	ie	house, dwelling
+7	1	多く	ooku	much, largely
+7	1	話	hanashi	talk, story
+7	1	上がる	agaru	go up, rise (physical movement)
+7	1	もう	mou	another, again
+7	1	集める	atsumeru	collect, gather
+7	1	声	koe	voice, sound
+7	1	初めて	hajimete	for the first time
+7	1	変わる	kawaru	change, turn into
+7	2	まず	mazu	first of all, to begin with
+7	2	社会	shakai	society
+7	2	プログラム	puroguramu	program booklet
+7	2	力	chikara	strength, power
+7	2	今回	konkai	this time
+7	2	予定	yotei	schedule, plan
+7	2	まま	mama	as is, still (in the current state)
+7	2	テレビ	terebi	television
+7	2	減る	heru	decrease, diminish
+7	2	消える	kieru	be extinguished, disappear
+7	3	家族	kazoku	family, household
+7	3	比べる	kuraberu	compare, contrast
+7	3	生まれる	umareru	be born, come into existence
+7	3	ただ	tada	free
+7	3	これら	korera	these
+7	3	調べる	shiraberu	investigate, check
+7	3	事故	jiko	accident, trouble
+7	3	電話	denwa	telephone, phone call
+7	3	外国	gaikoku	foreign country
+7	3	銀行	ginkou	bank
+7	4	十分	juubun	enough, plentiful
+7	4	あまり	amari	(not) much
+7	4	写真	shashin	photograph
+7	4	繰り返す	kurikaesu	repeat
+7	4	種類	shurui	kind, type
+7	4	意見	iken	opinion
+7	4	新聞	shinbun	newspaper
+7	4	文章	bunshou	sentence, writing
+7	4	目立つ	medatsu	stand out, be conspicuous
+7	4	相手	aite	opponent, the other party
+7	5	病院	byouin	hospital
+7	5	厚い	atsui	thick, bulky
+7	5	忙しい	isogashii	busy, occupied
+7	5	薄い	usui	thin, weak
+7	5	川	kawa	river, stream
+7	5	暗い	kurai	dark, gloomy
+7	5	クラス	kurasu	class (in school)
+7	5	黒い	kuroi	black, dark
+7	5	バス	basu	bus
+7	5	青い	aoi	blue
+7	6	買い物	kaimono	shopping, purchase
+7	6	薬	kusuri	drug, medicine
+7	6	砂糖	satou	sugar
+7	6	休み	yasumi	holiday, break
+7	6	郵便局	yuubinkyoku	post office
+7	6	住所	juusho	address
+7	6	こちら	kochira	here, this way (polite)
+7	6	財布	saifu	purse, wallet
+7	6	パスポート	pasupo-to	passport
+7	6	椅子	isu	chair
+7	7	可愛い	kawaii	cute, sweet
+7	7	お祖父さん	ojiisan	grandfather (colloquial)
+7	7	切手	kitte	postage stamp
+7	7	涼しい	suzushii	cool (of temperature)
+7	7	いくつ	ikutsu	how many, how old
+7	7	メニュー	menyu-	menu
+7	7	電気	denki	electricity, electric light
+7	7	勝つ	katsu	win
+7	7	負ける	makeru	lose
+7	7	建てる	tateru	build, erect
+8	1	日記	nikki	diary
+8	1	売り切れ	urikire	sell out
+8	1	お巡りさん	omawarisan	police officer (colloquial)
+8	1	目覚まし時計	mezamashitokei	alarm clock
+8	1	レシート	reshi-to	receipt (loan word)
+8	1	ティッシュ	tisshu	tissue
+8	1	歯ブラシ	haburashi	toothbrush
+8	1	下りる	oriru	go down, come down
+8	1	洗う	arau	wash
+8	1	パート	pa-to	part-time
+8	2	氏名	shimei	full name
+8	2	今夜	konya	tonight, this evening
+8	2	夜中	yonaka	midnight
+8	2	来週	raishuu	next week
+8	2	誰か	dareka	someone
+8	2	何	nan	what. それはなんですか. What is that?
+8	2	今朝	kesa	this morning
+8	2	寿司	sushi	sushi
+8	2	履く	haku	put on (shoes), wear (pants, skirt)
+8	2	おじさん	ojisan	uncle
+8	3	おばさん	obasan	aunt
+8	3	お祖母さん	obaasan	grandmother (colloquial)
+8	3	いとこ	itoko	cousin
+8	3	辞書	jisho	dictionary (category)
+8	3	朝ご飯	asagohan	breakfast
+8	3	白	shiro	white
+8	3	どっち	docchi	which (casual)
+8	3	そっち	socchi	there (casual)
+8	3	明日	ashita	tomorrow (colloquial)
+8	3	明後日	myougonichi/asatte	day after tomorrow (colloquial)
+8	4	一昨日	ototoi	the day before yesterday (colloquial)
+8	4	庭	niwa	garden, yard
+8	4	左側	hidarigawa	left side
+8	4	右側	migigawa	right side
+8	4	指	yubi	finger, toe
+8	4	眼鏡	megane	glasses
+8	4	鞄	kaban	bag, handbag
+8	4	あっち	acchi	other side, over there (casual)
+8	4	大人しい	otonashii	gentle, quiet
+8	4	下手	heta	not good at
+8	5	厳しい	kibishii	strict, severe
+8	5	一人で	hitoride	by oneself, alone
+8	5	答え	kotae	answer, solution
+8	5	この頃	konogoro	these days, recently
+8	5	残念	zannen	regretful, disappointing
+8	5	仕舞う	shimau	put away, put in
+8	5	心配	shinpai	anxiety, worry
+8	5	外	soto	outside, open air
+8	5	大切	taisetsu	important, valuable
+8	5	ちょうど	choudo	just, exactly
+8	6	助ける	tasukeru	help, save
+8	6	勤める	tsutomeru	serve, hold a job
+8	6	連れていく	tsureteiku	take along, bring along (a person)
+8	6	丈夫	joubu	healthy, sturdy
+8	6	賑やか	nigiyaka	lively, exciting
+8	6	眠い	nemui	sleepy
+8	6	山	yama	mountain
+8	6	橋	hashi	bridge
+8	6	止まる	tomaru	come to a stop, cease
+8	6	降る	furu	fall, come down (rain, snow, etc.)
+8	7	本当	hontou	reality, genuine
+8	7	町	machi	town, city
+8	7	お菓子	okashi	sweets, snacks
+8	7	緩い	yurui	slack, loose
+8	7	良い	yoi	good (formal/written form)
+8	7	ようこそ	youkoso	welcome (greeting)
+8	7	お土産	omiyage	souvenir (polite)
+8	7	両親	ryoushin	parents
+8	7	ウェーター	we-ta-	waiter
+8	7	ウェートレス	we-toresu	waitress
+9	1	絶対に	zettaini	absolutely, definitely
+9	1	ごちそう	gochisou	feast, treat
+9	1	フォーク	fo-ku	fork
+9	1	スプーン	supu-n	spoon
+9	1	瓶	bin	bottle
+9	1	つく	tsuku	be on, be switched on
+9	1	醤油	shouyu	soy sauce
+9	1	茶碗	chawan	rice bowl
+9	1	決める	kimeru	decide, agree upon
+9	1	感じる	kanjiru	feel, sense
+9	2	生きる	ikiru	live (one’s life)
+9	2	動かす	ugokasu	move (something)
+9	2	壊れる	kowareru	break, break down
+9	2	復習	fukushuu	review
+9	2	眉	mayu	eyebrow
+9	2	客	kyaku	visitor, customer
+9	2	机	tsukue	desk
+9	2	風呂	furo	bath
+9	2	湯	yu	hot water
+9	2	ぬるい	nurui	tepid, lukewarm
+9	3	風邪薬	kazegusuri	cold medicine
+9	3	靴下	kutsushita	socks
+9	3	タバコ	tabako	tobacco, cigarette
+9	3	アイスコーヒー	aisuko-hi-	iced coffee
+9	3	天ぷら	tempura	Japanese deep-fried food
+9	3	肉	niku	flesh, meat
+9	3	昨夜	sakuya	last night, last evening (colloquial)
+9	3	流行る	hayaru	be in fashion, be popular
+9	3	連れて来る	tsuretekuru	bring (a person)
+9	3	方	kata	person (polite form)
+9	4	零	rei	zero
+9	4	雲	kumo	cloud
+9	4	空	sora	sky
+9	4	人気	ninki	popularity
+9	4	兄さん	niisan	(one’s own) older brother (polite)
+9	4	姉さん	neesan	(one’s own) older sister (polite)
+9	4	平成	heisei	Heisei era
+9	4	毎月	maitsuki	every month
+9	4	半日	hannichi	half a day
+9	4	半月	hantsuki	half a month
+9	5	なるほど	naruhodo	I see, really
+9	5	つまり	tsumari	in short, that is to say
+9	5	そのまま	sonomama	as it is, just like that
+9	5	はっきり	hakkiri	clearly
+9	5	大変	taihen	awful, hard
+9	5	簡単	kantan	simple, easy
+9	5	似ている	niteiru	look like, resemble
+9	5	驚く	odoroku	be surprised, be startled
+9	5	嫌	iya/ kira-i	dislike (situational)
+9	5	喧嘩	kenka	fight, argument
+9	6	遅れる	okureru	be late
+9	6	にんじん	ninjin	carrot
+9	6	ジャガイモ	jagaimo	potato
+9	6	ナス	nasu	eggplant
+9	6	やかん	yakan	kettle
+9	6	話し合う	hanashiau	discuss, talk over
+9	6	残す	nokosu	leave, leave undone
+9	6	ごちそうする	gochisousuru	treat, host (a meal)
+9	6	合う	au	fit, match
+9	6	当たる	ataru	(go straight and) hit, strike
+9	7	集まる	atsumaru	gather, be collected
+9	7	場所	basho	place, space
+9	7	海	umi	sea, ocean
+9	7	少年	shounen	boy (between 7 and 18 years old)
+9	7	孫	mago	grandchild
+9	7	生徒	seito	pupil, student
+9	7	高校	koukou	high school (for short)
+9	7	年上	toshiue	older, senior
+9	7	卒業	sotsugyou	graduation
+9	7	運動	undou	movement, exercise
+10	1	選手	senshu	athlete, (sports) player
+10	1	映画	eiga	movie
+10	1	英語	eigo	English
+10	1	手紙	tegami	letter
+10	1	動物	doubutsu	animal
+10	1	音	oto	sound, noise
+10	1	海外	kaigai	overseas, abroad
+10	1	外国人	gaikokujin	foreigner
+10	1	帰国	kikoku	return to one’s country
+10	1	彼ら	karera	they
+10	2	機械	kikai	machine
+10	2	基本	kihon	basics
+10	2	今度	kondo	this time, next time
+10	2	最後	saigo	last
+10	2	最初	saisho	first, outset
+10	2	準備	junbi	preparation, arrangement
+10	2	進む	susumu	advance, move forward
+10	2	直接	chokusetsu	directly
+10	2	特に	tokuni	specially, particularly
+10	2	届く	todoku	reach, be received
+10	3	なぜ	naze	why
+10	3	並ぶ	narabu	line up, be parallel
+10	3	運ぶ	hakobu	carry, transport
+10	3	直す	naosu	repair, fix
+10	3	反対	hantai	oppose, object
+10	3	場合	baai	situation, case
+10	3	詳しい	kuwashii	detailed
+10	3	いたずら	itazura	mischief, prank
+10	3	お祝い	oiwai	celebrate
+10	3	くし	kushi	comb
+10	4	こぼれる	koboreru	spill, overflow
+10	4	伝える	tsutaeru	convey, transmit
+10	4	膝	hiza	knee
+10	4	肘	hiji	elbow
+10	4	枕	makura	pillow
+10	4	建物	tatemono	building, structure
+10	4	道路	douro	road
+10	4	四つ角	yotsukado	intersection
+10	4	曲がり角	magarikado	corner (to turn)
+10	4	警察	keisatsu	police
+10	5	空気	kuuki	air, atmosphere
+10	5	スポーツ	supo-tsu	sport
+10	5	チャンス	chansu	chance
+10	5	クリーニング	kuri-ningu	dry cleaning
+10	5	サービス	sa-bisu	service, on the house
+10	5	グループ	guru-pu	group
+10	5	自宅	jitaku	one’s house, one’s home
+10	5	家庭	katei	home, family
+10	5	期間	kikan	term, period
+10	5	年度	nendo	year, school year
+10	6	経験	keiken	experience, knowledge
+10	6	安全	anzen	safety, security
+10	6	危険	kiken	danger, dangerous
+10	6	注意	chuui	attention, care
+10	6	成功	seikou	success
+10	6	努力	doryoku	endeavor, effort
+10	6	説明	setsumei	explanation, description
+10	6	地震	jishin	earthquake
+10	6	手術	shujutsu	surgical operation
+10	6	火傷	yakedo	burn
+10	7	課題	kadai	task, assignment
+10	7	子	ko	young child, kid
+10	7	確認	kakunin	confirmation
+10	7	実際	jissai	reality, actual state
+10	7	国際	kokusai	international (used in compound nouns)
+10	7	会議	kaigi	conference, meeting
+10	7	提案	teian	proposition, proposal
+10	7	事務所	jimusho	office, one’s place of business
+10	7	教授	kyouju	professor
+10	7	世紀	seiki	century
+11	1	あちこち	achikochi	all over, here and there
+11	1	そちら	sochira	there, that way (polite)
+11	1	あちら	achira	over there, that way (polite)
+11	1	もし	moshi	if, in case of
+11	1	うるさい	urusai	noisy, annoying
+11	1	固い	katai	stiff, tight
+11	1	深い	fukai	deep, profound
+11	1	面白い	omoshiroi	interesting, amusing
+11	1	全く	mattaku	entirely, truly
+11	1	半分	hanbun	half
+11	2	普通	futsuu	normal, regular
+11	2	分	bun	amount, share
+11	2	文化	bunka	culture
+11	2	毎日	mainichi	every day
+11	2	気を付ける	kiwotsukeru	be careful about, pay attention to
+11	2	守る	mamoru	protect, observe
+11	2	もちろん	mochiron	of course
+11	2	やはり	yahari	as expected
+11	2	いくら	ikura	how much (money)
+11	2	よろしく	yoroshiku	one’s regards
+11	3	どなた	donata	who (polite)
+11	3	許す	yurusu	permit, forgive
+11	3	分ける	wakeru	divide, share
+11	3	自然	shizen	nature
+11	3	アパート	apa-to	apartment, flat
+11	3	ホテル	hoteru	hotel
+11	3	パソコン	pasokon	personal computer
+11	3	うまい	umai	good at
+11	3	明るい	akarui	bright, cheerful
+11	3	急ぐ	isogu	hurry, do quickly
+11	4	歌	uta	song
+11	4	中学校	chuugakkou	junior high school
+11	4	テスト	tesuto	test
+11	4	ポスト	posuto	postbox, mailbox
+11	4	ハンカチ	hankachi	handkerchief
+11	4	髪	kami	hair, hairstyle
+11	4	帽子	boushi	hat, cap
+11	4	被る	kaburu	wear, put on (on one’s head)
+11	4	ブラウス	burausu	blouse
+11	4	週末	shuumatsu	weekend
+11	5	先週	senshuu	last week
+11	5	再来週	saraishuu	the week after next
+11	5	いつか	itsuka	some time, some day
+11	5	宿題	shukudai	homework
+11	5	鍵	kagi	key, lock
+11	5	傘	kasa	umbrella, parasol
+11	5	乗り換える	norikaeru	change, transfer
+11	5	向かう	mukau	face, head toward
+11	5	本屋	honya	bookstore (colloquial)
+11	5	お茶	ocha	tea (polite)
+11	6	改札口	kaisatsuguchi	ticket gate
+11	6	晴れ	hare	fine weather, clear sky
+11	6	バス停	basutei	bus stop
+11	6	曇り	kumori	cloudy weather
+11	6	塩	shio	salt
+11	6	たくさん	takusan	a lot, in large quantity
+11	6	大嫌い	daikirai	hate
+11	6	中	naka	inside, middle
+11	6	二階	nikai	second floor, upstairs
+11	6	無くす	nakusu	lose, get rid of
+11	7	まあまあ	maamaa	OK, not bad
+11	7	黄色	kiiro	yellow color
+11	7	ランチ	ranchi	lunch (loan word)
+11	7	魚	sakana	fish
+11	7	味	aji	taste, flavor
+11	7	りんご	ringo	apple
+11	7	みかん	mikan	tangerine
+11	7	皿	sara	plate, counter (for plates or helpings)
+11	7	コーヒー	ko-hi-	coffee
+11	7	コップ	koppu	cup, glass
+12	1	二人	futari	two persons
+12	1	止む	yamu	stop, cease
+12	1	九	kyuu	nine
+12	1	昼間	hiruma	daytime, during the day
+12	1	いつ頃	itsugoro	about when, about what time
+12	1	字	ji	(individual) character, letter
+12	1	七	nana	seven (Chinese origin)
+12	1	お釣り	otsuri	change (of money)
+12	1	名字	myouji	surname, family name
+12	1	おじ	oji	(one’s own) uncle
+12	2	おば	oba	(one’s own) aunt
+12	2	祖父	sofu	grandfather (formal)
+12	2	祖母	sobo	grandmother (formal)
+12	2	大事	daiji	importance
+12	2	見方	mikata	view, perspective
+12	2	鳥	tori	bird, poultry
+12	2	犬	inu	dog
+12	2	返事	henji	reply, answer, response
+12	2	また	mata	again, also, or
+12	2	年間	nenkan	period of one year
+12	3	青	ao	blue, green
+12	3	赤	aka	red color
+12	3	信号	shingou	signal, traffic light
+12	3	円	en	circle
+12	3	非常に	hijouni	very, extremely
+12	3	複雑	fukuzatsu	complicated, intricate
+12	3	平和	heiwa	peace, harmony
+12	3	回る	mawaru	turn round, go around
+12	3	若者	wakamono	young person, youth
+12	3	雪	yuki	snow, snowfall
+12	4	うまい	umai	sweet, delicious
+12	4	思い出す	omoidasu	recollect, recall
+12	4	聞こえる	kikoeru	hear, be heard
+12	4	借りる	kariru	borrow
+12	4	返す	kaesu	return, repay
+12	4	受け取る	uketoru	receive, get
+12	4	捨てる	suteru	discard, abandon
+12	4	一緒	issho	together, same (colloquial)
+12	4	遊び	asobi	play, amusement
+12	4	移す	utsusu	move, transfer
+12	5	大きさ	ookisa	size, dimension
+12	5	考え	kangae	thought, idea
+12	5	空港	kuukou	airport (for public transportation)
+12	5	出発	shuppatsu	departure, starting
+12	5	地図	chizu	map, atlas
+12	5	運転	unten	drive
+12	5	降りる	oriru	get off, land
+12	5	ガス	gasu	gas (loan word)
+12	5	必ず	kanarazu	without exception, always
+12	5	カメラ	kamera	camera
+12	6	通う	kayou	go to and from, frequent a place
+12	6	急に	kyuuni	suddenly, unexpectedly
+12	6	サラリーマン	sarari-man	office worker, company employee
+12	6	給料	kyuuryou	salary, pay
+12	6	曲	kyoku	piece of music
+12	6	切れる	kireru	cut well, be sharp
+12	6	正しい	tadashii	correct, righteous
+12	6	苦しい	kurushii	painful, agonizing
+12	6	細かい	komakai	minute, fine
+12	6	静か	shizuka	quiet, tranquil
+12	7	健康	kenkou	health
+12	7	ゴルフ	gorufu	golf
+12	7	コース	ko-su	course, route
+12	7	頼む	tanomu	order, ask for
+12	7	困る	komaru	be in trouble, not know what to do
+12	7	ずっと	zutto	all the time, all through
+12	7	例えば	tatoeba	for example
+12	7	つもり	tsumori	intention, purpose
+12	7	しばらく	shibaraku	a little while, a while
+12	7	紹介	shoukai	introduction
+13	1	小学校	shougakkou	elementary school
+13	1	公園	kouen	park, public garden
+13	1	中学	chuugaku	junior high
+13	1	成績	seiseki	results, grade
+13	1	教科書	kyoukasho	textbook, schoolbook
+13	1	席	seki	seat, one’s place
+13	1	教室	kyoushitsu	classroom, class
+13	1	教師	kyoushi	teacher, instructor
+13	1	試験	shiken	exam
+13	1	合格	goukaku	pass an examination
+13	2	数学	suugaku	mathematics
+13	2	数字	suuji	numeric characters
+13	2	音楽	ongaku	music
+13	2	食事	shokuji	meal
+13	2	壁	kabe	wall, partition
+13	2	信じる	shinjiru	believe, trust
+13	2	育てる	sodateru	bring up, raise
+13	2	倒れる	taoreru	fall over
+13	2	落とす	otosu	drop
+13	2	代わる	kawaru	substitute, be substituted for
+13	3	タクシー	takushi-	taxi
+13	3	確か	tashika	for sure, for certain
+13	3	立てる	tateru	stand, set up
+13	3	中学生	chuugakusei	junior high school student
+13	3	売れる	ureru	sell, be in demand
+13	3	着く	tsuku	arrive at, reach
+13	3	決まる	kimaru	be decided
+13	3	飾る	kazaru	decorate
+13	3	殺す	korosu	kill
+13	3	下げる	sageru	lower, turn down
+13	4	贈る	okuru	offer, give
+13	4	訪ねる	tazuneru	visit, go to see
+13	4	打つ	utsu	hit, strike
+13	4	相談	soudan	consultation, advice
+13	4	玄関	genkan	entrance, door
+13	4	兄弟	kyoudai	sibling
+13	4	長男	chounan	eldest son
+13	4	高さ	takasa	height
+13	4	用	you	things to do
+13	4	時代	jidai	age, era
+13	5	位置	ichi	position, location
+13	5	季節	kisetsu	season
+13	5	穴	ana	hole
+13	5	裏	ura	the back, the reverse side
+13	5	島	shima	island (Japanese origin)
+13	5	海岸	kaigan	seashore, coast
+13	5	ガラス	garasu	glass (material)
+13	5	自然	shizen	natural
+13	5	風	kaze	wind
+13	5	科学	kagaku	science
+13	6	太陽	taiyou	sun
+13	6	台風	taifuu	typhoon
+13	6	北	kita	north
+13	6	馬	uma	horse
+13	6	牛肉	gyuuniku	beef
+13	6	雑誌	zasshi	magazine, journal
+13	6	小説	shousetsu	novel
+13	6	大使館	taishikan	embassy
+13	6	故障	koshou	malfunction, breakdown
+13	6	温度	ondo	temperature
+13	7	何か	nanika	something, some
+13	7	向こう	mukou	over there, on the other side
+13	7	真ん中	mannaka	center, middle (casual)
+13	7	遠く	tooku	far away, at a distance
+13	7	横	yoko	side, width across
+13	7	つまらない	tsumaranai	boring, dull
+13	7	素晴らしい	subarashii	excellent, wonderful
+13	7	毎年	maitoshi/ mainen	every year (colloquial)
+13	7	来月	raigetsu	next month
+13	7	日時	nichiji	date and time
+14	1	夕方	yuugata	early evening, at dusk
+14	1	通る	tooru	pass, go through
+14	1	自動車	jidousha	automobile
+14	1	慣れる	nareru	grow accustomed to, get used to
+14	1	撮る	toru	take (a photograph), film
+14	1	やっと	yatto	at last, finally
+14	1	どんどん	dondon	knock, bang
+14	1	並べる	naraberu	line up, arrange
+14	1	逃げる	nigeru	escape, run away
+14	1	渡す	watasu	hand over, give
+14	2	値段	nedan	price
+14	2	両方	ryouhou	both
+14	2	約束	yakusoku	promise, vow
+14	2	一部	ichibu	part
+14	2	ラジオ	rajio	radio
+14	2	入院	nyuuin	be hospitalized
+14	2	ニュース	nyu-su	news
+14	2	旅行	ryokou	travel, trip
+14	2	用意	youi	preparation
+14	2	伸びる	nobiru	stretch, grow
+14	3	パーティー	pa-ti-	party
+14	3	ビール	bi-ru	beer
+14	3	早く	hayaku	early, soon
+14	3	番組	bangumi	program
+14	3	ビデオ	bideo	video
+14	3	増やす	fuyasu	increase
+14	3	振る	furu	wave, shake
+14	3	迎える	mukaeru	welcome, receive (a visitor)
+14	3	無理	muri	unreasonable, impossible
+14	3	珍しい	mezurashii	rare, scarce
+14	4	有名	yuumei	famous
+14	4	喜ぶ	yorokobu	be happy, be delighted
+14	4	留学	ryuugaku	study abroad
+14	4	料理	ryouri	cooking
+14	4	野菜	yasai	vegetable
+14	4	分かれる	wakareru	be divided, split off
+14	4	特別	tokubetsu	special
+14	4	理由	riyuu	reason, excuse
+14	4	自由	jiyuu	freedom
+14	4	方向	houkou	direction, course
+14	5	残る	nokoru	remain, be left over
+14	5	ビル	biru	building
+14	5	まとめる	matomeru	gather together, put in order
+14	5	流れる	nagareru	flow, run
+14	5	セーター	se-ta-	sweater
+14	5	シャツ	shatsu	shirt
+14	5	洗濯	sentaku	laundry, washing
+14	5	間違える	machigaeru	make a mistake, fail at
+14	5	アイスクリーム	aisukuri-mu	ice cream
+14	5	乾く	kawaku	become dry
+14	6	冷める	sameru	cool off
+14	6	色々	iroiro	a variety of
+14	6	持って行く	motteiku	take, bring
+14	6	着替える	kigaeru	change clothes
+14	6	石鹸	sekken	soap
+14	6	野球	yakyuu	baseball
+14	6	昼食	chyuushoku	lunch
+14	6	朝食	choushoku	breakfast
+14	6	眠る	nemuru	sleep, lie idle
+14	6	初め	hajime	beginning
+14	7	火	hi	fire, flame
+14	7	西	nishi	west, western
+14	7	東	higashi	east, eastern
+14	7	南	minami	south
+14	7	夕食	yuushoku	supper, dinner
+14	7	なかなか	nakanaka	rather, pretty
+14	7	励ます	hagemasu	encourage, cheer up
+14	7	涙	namida	tear
+14	7	夢	yume	dream
+14	7	職場	shokuba	place of work, office
+15	1	隣	tonari	next to, next door
+15	1	マンション	manshon	apartment, residential building
+15	1	エレベーター	erebe-ta-	elevator
+15	1	窓	mado	window
+15	1	押す	osu	push, press down
+15	1	入学	nyuugaku	enter a school, matriculate
+15	1	戸	to	door, sliding door
+15	1	通り	toori	street, road
+15	1	亡くなる	nakunaru	die, pass away
+15	1	夫婦	fuufu	husband and wife, married couple
+15	2	女性	josei	woman, female (formal)
+15	2	森	mori	forest
+15	2	トラック	torakku	truck
+15	2	レコード	reko-do	record
+15	2	熱	netsu	heat, fever
+15	2	ページ	pe-ji	page
+15	2	踊る	odoru	dance
+15	2	長さ	nagasa	length
+15	2	厚さ	atsusa	thickness
+15	2	秘密	himitsu	secret, privacy
+15	3	凄い	sugoi	great, incredible
+15	3	親切	shinsetsu	kind, kindhearted
+15	3	絶対	zettai	absolutely, never
+15	3	先月	sengetsu	last month
+15	3	一昨年	ototoshi	the year before last (colloquial)
+15	3	冬休み	fuyuyasumi	winter vacation
+15	3	夏休み	natsuyasumi	summer vacation
+15	3	休日	kyuujitsu	day off, holiday
+15	3	正月	shougatsu	New Year, January
+15	3	思い出	omoide	memory
+15	4	たまに	tamani	occasionally, by chance
+15	4	おかしい	okashii	strange, peculiar
+15	4	浅い	asai	shallow, superficial
+15	4	君	kimi	you (referring to fellows or subordinates)
+15	4	奥さん	okusan	(somone else’s) wife, married woman
+15	4	赤ちゃん	akachan	baby (colloquial)
+15	4	小学生	shougakusei	elementary school student
+15	4	貸す	kasu	lend, lease
+15	4	数える	kazoeru	count
+15	4	生む	umu	give birth, produce
+15	5	育つ	sodatsu	be brought up, grow
+15	5	是非	zehi	by all means, please
+15	5	黒	kuro	black
+15	5	おもちゃ	omocha	toy, plaything
+15	5	靴	kutsu	shoes
+15	5	連絡	renraku	contact, communication
+15	5	伝言	dengon	message
+15	5	預ける	azukeru	deposit, leave (something) with (someone)
+15	5	下がる	sagaru	go down, drop
+15	5	泳ぐ	oyogu	swim
+15	6	アルバイト	arubaito	part-time job
+15	6	コート	ko-to	coat, jacket (loan word)
+15	6	趣味	shumi	hobby, interest
+15	6	散歩	sanpo	walk, stroll
+15	6	幸せ	shiawase	happiness, satisfied (colloquial)
+15	6	安心	anshin	peace of mind, relief
+15	6	大勢	oozei	large numbers, a lot of (people)
+15	6	医者	isha	doctor (colloquial, plain)
+15	6	運転手	untenshu	driver
+15	6	新幹線	shinkansen	bullet train
+15	7	往復	oufuku	round trip
+15	7	コピー	kopi-	copy, photocopy
+15	7	奥	oku	inner part, the back
+15	7	重さ	omosa	weight
+15	7	親しい	shitashii	intimate, familiar
+15	7	修理	shuuri	repair, mending
+15	7	カード	ka-do	card
+15	7	挨拶	aisatsu	greet, greeting
+15	7	階段	kaidan	steps, flight of stairs
+15	7	配る	kubaru	hand out, distribute
+16	1	断る	kotowaru	refuse, turn down
+16	1	グラム	guramu	gram
+16	1	濃い	koi	strong, concentrated
+16	1	壊す	kowasu	break (something), destroy
+16	1	桜	sakura	cherry tree, cherry blossom
+16	1	仕方	shikata	way, method
+16	1	絵	e	picture, painting
+16	1	気温	kion	air temperature
+16	1	品物	shinamono	article, goods
+16	1	吸う	suu	inhale, suck
+16	2	案内	annai	guide, guidance
+16	2	スキー	suki-	ski, skiing
+16	2	金持ち	kanemochi	wealthy person
+16	2	尋ねる	tazuneru	inquire, ask
+16	2	叩く	tataku	tap, hit
+16	2	帰り	kaeri	return, going home
+16	2	卵	tamago	egg
+16	2	氷	koori	ice
+16	2	留学生	ryuugakusei	student studying abroad
+16	2	ソフト	sofuto	software, program
+16	3	歯医者	haisha	dentist
+16	3	蹴る	keru	kick
+16	3	敷く	shiku	lay, spread
+16	3	ひととき	hitotoki	some moments, a while
+16	3	交通事故	koutsuujiko	traffic accident
+16	3	遭う	au	meet, encounter, get caught in
+16	3	招待	shoutai	invitation
+16	3	咲く	saku	bloom, blossom
+16	3	二十歳	hatachi	20 years old
+16	3	銀	gin	silver
+16	4	内側	uchigawa	inside, interior
+16	4	池	ike	pond
+16	4	石	ishi	stone, small rock
+16	4	愛	ai	love
+16	4	課	ka	section, division
+16	4	大学院	daigakuin	graduate school
+16	4	台所	daidokoro	kitchen
+16	4	カラー	kara-	color (loan word)
+16	4	すり	suri	pickpocket
+16	4	キャンプ	kyanpu	camping, camp
+16	5	オートバイ	o-tobai	motorbike, motorcycle
+16	5	建つ	tatsu	be built, be erected
+16	5	刺す	sasu	sting, stab
+16	5	言い方	iikata	way of speaking, expression
+16	5	沈む	shizumu	sink
+16	5	組み立てる	kumitateru	set up, put together
+16	5	恐ろしい	osoroshii	terrible, awful
+16	5	外人	gaijin	foreigner, alien
+16	5	牛	ushi	cattle, cow
+16	5	食堂	shokudou	cafeteria, restaurant
+16	6	毎年	mainen	every year (formal)
+16	6	毎週	maishuu	every week
+16	6	何度	nando	how many times, how many degrees
+16	6	なかなか	nakanaka	not easily, not readily
+16	6	さっき	sakki	earlier, only a moment ago
+16	6	久しぶり	hisashiburi	after a long time
+16	6	便利	benri	convenience
+16	6	迷惑	meiwaku	trouble, annoyance
+16	6	そんなに	sonnani	so much
+16	6	びっくりする	bikkurisuru	be surprised, be startled (casual)
+16	7	足りる	tariru	suffice, be enough
+16	7	疲れる	tsukareru	get tired, become fatigued
+16	7	ひどい	hidoi	cruel, awful
+16	7	全然	zenzen	(not ) at all
+16	7	猫	neko	cat
+16	7	デパート	depa-to	department store (loan word)
+16	7	トイレ	toire	toilet
+16	7	地下鉄	chikatetsu	subway
+16	7	駐車場	chuushajou	parking area, parking lot
+16	7	ぶつかる	butsukaru	hit, bump into
+17	1	運賃	unchin	(passenger) fare
+17	1	通学	tsuugaku	commuting to school
+17	1	見送る	miokuru	see (someone) off
+17	1	泣く	naku	cry, weep
+17	1	レストラン	resutoran	restaurant
+17	1	メモ	memo	memo, note
+17	1	予約	yoyaku	reservation, appointment
+17	1	番号	bangou	assigned number
+17	1	注文	chuumon	order
+17	1	パン	pan	bread
+17	2	ワイン	wain	wine
+17	2	材料	zairyou	material, ingredient
+17	2	豚肉	butaniku	pork
+17	2	焼く	yaku	bake, grill
+17	2	匂い	nioi	(pleasant) smell, odor
+17	2	付ける	tsukeru	attach, apply, put
+17	2	痩せる	yaseru	lose weight, become thin
+17	2	届ける	todokeru	deliver
+17	2	間に合う	maniau	be in time, suffice
+17	2	向く	muku	turn, face
+17	3	強さ	tsuyosa	strength
+17	3	得意	tokui	one’s specialty, be good at
+17	3	塗る	nuru	spread on, paint
+17	3	投げる	nageru	throw
+17	3	習う	narau	learn, take lessons
+17	3	注目	chuumoku	attention, notice
+17	3	未来	mirai	future
+17	3	箱	hako	box, case
+17	3	右手	migite	right hand
+17	3	左手	hidarite	left hand
+17	4	プール	pu-ru	pool
+17	4	ピアノ	piano	piano
+17	4	光る	hikaru	shine, emit light, sparkle
+17	4	踏む	fumu	step on, tread on
+17	4	別々	betsubetsu	separately
+17	4	ボール	bo-ru	ball
+17	4	握る	nigiru	grasp, grip, hold
+17	4	真っ赤	makka	deep red
+17	4	拾う	hirou	pick up
+17	4	回す	mawasu	turn, rotate (something)
+17	5	ノート	no-to	notebook (loan word)
+17	5	辞める	yameru	resign, leave (one’s job), quit
+17	5	揺れる	yureru	shake, sway
+17	5	立派	rippa	fine, elegant
+17	5	練習	renshuu	practice, training
+17	5	割る	waru	divide, split
+17	5	部分	bubun	part, section
+17	5	拭く	fuku	wipe, dry
+17	5	招く	maneku	invite
+17	5	急	kyuu	urgent, steep
+17	6	汚れる	yogoreru	become dirty
+17	6	渡る	wataru	cross, go across
+17	6	途中	tochuu	on the way, half way
+17	6	インタビュー	intabyu-	interview (loan word)
+17	6	盗む	nusumu	steal, rob
+17	6	普段	fudan	usual, ordinary
+17	6	旅館	ryokan	Japanese inn
+17	6	博物館	hakubutsukan	museum
+17	6	ホーム	ho-mu	platform (for short)
+17	6	引っ越す	hikkosu	move, relocate
+17	7	荷物	nimotsu	baggage, load
+17	7	家賃	yachin	rent
+17	7	計画	keikaku	plan
+17	7	廊下	rouka	hallway, corridor
+17	7	天井	tenjou	ceiling
+17	7	ベッド	beddo	bed
+17	7	ソファー	sofa-	sofa, couch
+17	7	屋根	yane	roof
+17	7	祭り	matsuri	festival
+17	7	離婚	rikon	divorce
+18	1	葉	ha	leaf
+18	1	ボート	bo-to	light boat, small craft
+18	1	燃える	moeru	burn, catch on fire
+18	1	巻く	maku	roll up, wrap
+18	1	プラスチック	purasuchikku	plastic
+18	1	訪れる	otozureru	go and visit (place)
+18	1	破る	yaburu	tear, breach
+18	1	関係	kankei	relation, relationship
+18	1	録音	rokuon	(sound) recording
+18	1	不幸	fukou	unhappiness, misfortune
+18	2	外国語	gaikokugo	language
+18	2	着物	kimono	traditional Japanese clothes
+18	2	牛乳	gyuunyuu	milk
+18	2	救急車	kyuukyuusha	ambulance
+18	2	果物	kudamono	fruit
+18	2	間違い	machigai	mistake, error
+18	2	映画館	eigakan	movie theater
+18	2	怖い	kowai	scary, be afraid
+18	2	鏡	kagami	mirror
+18	2	草	kusa	grass, weed
+18	3	敬語	keigo	polite speech
+18	3	欠席	kesseki	absence
+18	3	スイッチ	suicchi	switch
+18	3	掃除	souji	cleaning
+18	3	畳	tatami	straw mat
+18	3	速さ	hayasa	speed
+18	3	林	hayashi	woods, forest
+18	3	プレゼント	purezento	present (loan word)
+18	3	弁当	bentou	boxed lunch
+18	3	いつでも	itsudemo	at all times, any time
+18	4	寂しい	sabishii	lonely, desolate, sad
+18	4	少しも	sukoshimo	(not) in the least
+18	4	尊敬	sonkei	respect, esteem
+18	4	テニス	tenisu	tennis
+18	4	広さ	hirosa	area, extent
+18	4	読み	yomi	reading
+18	4	我慢	gaman	patience, endurance
+18	4	国籍	kokuseki	nationality, citizenship
+18	4	恥ずかしい	hazukashii	embarrassed, ashamed
+18	4	ボタン	botan	button
+18	5	洋服	youfuku	(western-style) clothes
+18	5	油	abura	oil
+18	5	おかしい	okashii	funny, comical
+18	5	余る	amaru	remain, be in excess
+18	5	コート	ko-to	sports court
+18	5	正直	shoujiki	honest, upright
+18	5	ドラマ	dorama	drama
+18	5	ビザ	biza	visa
+18	5	水道	suidou	tap water
+18	5	店員	tenin	clerk, salesperson
+18	6	電池	denchi	battery
+18	6	ポケット	poketto	pocket
+18	6	握手	akushu	handshake
+18	6	そろそろ	sorosoro	soon, it’s about time
+18	6	ぶどう	budou	grapes
+18	6	迷う	mayou	get lost
+18	6	見物	kenbutsu	sightseeing, visit
+18	6	知らせる	shiraseru	let know, inform
+18	6	神社	jinja	Shinto shrine
+18	6	注射	chuusha	injection, shot
+18	7	めったに	mettani	rarely, seldom
+18	7	作文	sakubun	composition, essay
+18	7	鳴る	naru	sound, ring
+18	7	真面目	majime	serious and sincere
+18	7	申し込む	moushikomu	apply, sign up
+18	7	冷蔵庫	reizouko	refrigerator
+18	7	気に入る	kiniiru	like, be pleased with
+18	7	クリスマス	kurisumasu	Christmas
+18	7	ネクタイ	nekutai	tie, necktie
+18	7	誕生日	tanjoubi	birthday
+19	1	独身	dokushin	single, unmarried
+19	1	苦い	nigai	bitter
+19	1	バイオリン	baiorin	violin
+19	1	バッグ	baggu	bag
+19	1	今まで	imamade	until now
+19	1	切符	kippu	ticket
+19	1	ゴム	gomu	elastic, rubber
+19	1	少々	shoushou	a little, a bit
+19	1	随分	zuibun	extremely, considerably
+19	1	引っ張る	hipparu	pull, drag
+19	2	焼ける	yakeru	burn, cook
+19	2	鉛筆	enpitsu	pencil
+19	2	会話	kaiwa	conversation
+19	2	ギター	gita-	guitar
+19	2	茶	cha	tea
+19	2	暑さ	atsusa	heat (of weather)
+19	2	胃	i	stomach
+19	2	禁煙	kinen	non-smoking
+19	2	丸い	marui	round
+19	2	写る	utsuru	be photographed
+19	3	喫茶店	kissaten	coffee shop, café
+19	3	やっぱり	yappari	just as I thought, after all
+19	3	週刊誌	shuukanshi	weekly magazine
+19	3	棚	tana	shelf, rack
+19	3	震える	furueru	tremble, shake
+19	3	磨く	migaku	polish, grind
+19	3	カーテン	ka-ten	curtain
+19	3	火事	kaji	fire, blaze
+19	3	ナイフ	naifu	knife
+19	3	皆さん	minasan	everybody, everyone (polite)
+19	4	受ける	ukeru	receive, take, undergo
+19	4	付く	tsuku	stick to, cling to
+19	4	私	watakushi	I (formal)
+19	4	結構	kekkou	quite
+19	4	悪口	warukuchi	slander, abuse
+19	4	広まる	hiromaru	spread, get around
+19	4	内緒	naisho	secrecy, privacy
+19	4	つぶる	tsuburu	close (eyes)
+19	4	用件	youken	matter, things to be done
+19	4	ロマンチック	romanchikku	romantic
+19	5	貯金	chokin	savings, deposit
+19	5	バイク	baiku	motorcycle
+19	5	預かる	azukaru	take care of, keep
+19	5	オレンジ	orenji	orange
+19	5	噛む	kamu	bite, chew
+19	5	きつい	kitsui	tight, tough
+19	5	越える	koeru	go over, go across
+19	5	小包	kodutsumi	parcel, package
+19	5	新年	shinnen	new year
+19	5	配達	haitatsu	delivery
+19	6	動物園	doubutsuen	zoo
+19	6	封筒	fuutou	envelope
+19	6	危ない	abunai	dangerous
+19	6	テキスト	tekisuto	text, textbook
+19	6	ビニール	bini-ru	plastic, vinyl
+19	6	アルバム	arubamu	album
+19	6	水泳	suiei	swimming
+19	6	混む	komu	be crowded, be congested
+19	6	スカート	suka-to	skirt
+19	6	取れる	toreru	come off, be removed
+19	7	ペン	pen	pen
+19	7	物	mono	thing, object
+19	7	郵便	yuubin	mail service, postal mail
+19	7	割れる	wareru	crack, split
+19	7	駅員	ekiin	station attendant
+19	7	おしゃべり	oshaberi	talkative, chatty
+19	7	緑色	midoriiro	green color
+19	7	毎朝	maiasa	every morning
+19	7	曲げる	mageru	bend (something)
+19	7	きっと	kitto	surely, certainly
+20	1	理科	rika	science (school subject)
+20	1	下着	shitagi	underwear
+20	1	太る	futoru	grow fat, gain weight
+20	1	冷房	reibou	air conditioning (cooling)
+20	1	別れる	wakareru	separate, part
+20	1	空く	aku	become available or vacant
+20	1	出掛ける	dekakeru	go out, leave home
+20	1	毎晩	maiban	every evening
+20	1	指輪	yubiwa	ring
+20	1	腐る	kusaru	rot, go bad
+20	2	貧乏	binbou	poverty, destitution
+20	2	おしゃれ	oshare	trendy, fashionable
+20	2	休憩	kyuukei	break
+20	2	舌	shita	tongue
+20	2	ジュース	ju-su	juice
+20	2	ゼロ	zero	zero, none (loan word)
+20	2	朝刊	choukan	morning edition paper
+20	2	丁寧	teinei	polite, careful
+20	2	苦手	nigate	not good at, be bad at
+20	2	日	hi	(specific) day, sun, daytime
+20	3	引っ越し	hikkoshi	moving (house)
+20	3	歩道	hodou	sidewalk, pavement
+20	3	折れる	oreru	break, snap
+20	3	見送り	miokuri	send-off
+20	3	夕刊	yuukan	evening edition paper
+20	3	この間	konoaida	the other day, not so long ago
+20	3	冷える	hieru	cool down, get chilled
+20	3	ピンク	pinku	pink
+20	3	グラス	gurasu	glass
+20	3	毛	ke	hair, down
+20	4	黒板	kokuban	blackboard
+20	4	積もる	tsumoru	pile up
+20	4	半年	hantoshi	half a year
+20	4	現在	genzai	the present, present time
+20	4	利用	riyou	utilization, usage
+20	4	方法	houhou	method, procedure
+20	4	中心	chuushin	center (of a circle, etc.), core
+20	4	明らか	akiraka	clear, obvious
+20	4	社長	shachou	president (of a company)
+20	4	ほぼ	hobo	almost, nearly
+20	5	商品	shouhin	goods, commodities
+20	5	大型	oogata	large, large scale
+20	5	限る	kagiru	be limited to
+20	5	記録	kiroku	record, documentation
+20	5	具体的	gutaiteki	concrete, specific
+20	5	効果	kouka	effect, result
+20	5	公開	koukai	opening (to the public)
+20	5	作品	sakuhin	work of art, creation
+20	5	迫る	semaru	close in on, approach
+20	5	大会	taikai	tournament, event
+20	6	背景	haikei	background, backdrop
+20	6	文字	moji	character, letter, writing
+20	6	規則	kisoku	rule, regulation
+20	6	近所	kinjo	neighborhood
+20	6	グラフ	gurapu	chart, graph
+20	6	首都	shuto	capital
+20	6	減らす	herasu	reduce (something)
+20	6	隠れる	kakureru	hide
+20	6	美術館	bijutsukan	art museum
+20	6	ばか	baka	foolish, stupid
+20	7	暇	hima	free time, spare time
+20	7	絵葉書	ehagaki	picture postcard
+20	7	あんなに	annani	that much, such
+20	7	行き	iki	going, bound for
+20	7	通勤	tsuukin	commute
+20	7	ちゃんと	chanto	correctly, properly
+20	7	のんびり	nonbiri	take it easy
+20	7	緊張	kinchou	tension, strain
+20	7	気付く	kiduku	notice, realize
+20	7	物語	monogatari	story, tale
+21	1	出口	deguchi	exit
+21	1	登る	noboru	climb, go up
+21	1	真っ白	masshiro	pure-white
+21	1	下ろす	orosu	bring down, take down
+21	1	貸し出す	kashidasu	lend, lend out
+21	1	サッカー	sakka-	soccer, football
+21	1	暖房	danbou	heating
+21	1	手袋	tebukuro	gloves
+21	1	留守	rusu	not at home
+21	1	嘘	uso	lie
+21	2	遠慮	enryo	restraint, hold back
+21	2	折る	oru	break (something), fold (something)
+21	2	スープ	su-pu	soup
+21	2	バナナ	banana	banana
+21	2	可哀相	kawaisou	poor, pitiful
+21	2	パトカー	patoka-	police car
+21	2	ハンバーガー	hanba-ga-	hamburger
+21	2	毛布	moufu	blanket
+21	2	エスカレーター	esukare-ta-	escalator
+21	2	お嬢さん	ojousan	young lady, daughter
+21	3	手帳	techou	pocket notebook
+21	3	タオル	taoru	towel
+21	3	売店	baiten	booth, shop
+21	3	パチンコ	pachiko	pachinko (Japanese pinball)
+21	3	謝る	ayamaru	apologize
+21	3	ケーキ	ke-ki	cake
+21	3	天気予報	tenkiyohou	weather forecast
+21	3	変	hen	strange, weird
+21	3	一生懸命	isshoukenmei	hard-working, doing one’s best
+21	3	間違う	machigau	make a mistake, be wrong
+21	4	事務室	jimushitsu	office
+21	4	スーツ	su-tsu	suit
+21	4	チケット	chiketto	ticket (loan word)
+21	4	チョコレート	chokore-to	chocolate
+21	4	脱ぐ	nugu	take off (clothes)
+21	4	年賀状	nenkajou	New Year’s card
+21	4	乗り物	norimono	vehicle, transportation
+21	4	布団	futon	Japanese-style padded mattress
+21	4	役に立つ	yakunitatsu	be useful, be helpful
+21	4	破れる	yabureru	tear, rip open
+21	5	用事	youji	errand, business
+21	5	写す	utsusu	copy, photograph
+21	5	腕時計	udedokei	wrist watch
+21	5	贈り物	okurimono	present, gift
+21	5	チャンネル	channeru	channel
+21	5	冷やす	hiyasu	chill (something), cool down
+21	5	片付ける	katazukeru	put in order, clean up
+21	5	乾杯	kanpai	toast, drink (in celebration)
+21	5	停車	teisha	stop (of a train)
+21	5	鳴く	naku	sing, cry (of animals)
+21	6	ガソリンスタンド	gasorinsutando	gas station
+21	6	片道	katamichi	one way (trip)
+21	6	交番	kouban	police box
+21	6	大分	daibu	greatly, fairly, highly
+21	6	デート	de-to	date, romantic meeting
+21	6	梅雨	tsuyu	rainy season
+21	6	真っ直ぐ	massugu	straight
+21	6	レモン	remon	lemon
+21	6	上着	uwagi	outerwear, coat, jacket
+21	6	偉い	erai	great, eminent
+21	7	書き方	kakikata	how to write, way of writing
+21	7	炊く	taku	cook (rice)
+21	7	チーズ	chi-zu	cheese
+21	7	ドライブ	doraibu	drive (loan word)
+21	7	踏切	fumikiri	railroad crossing
+21	7	ラケット	raketto	racket
+21	7	受付	uketsuke	receptionist, information office
+21	7	怒る	okoru	get angry, scold
+21	7	化粧	keshou	makeup
+21	7	都合	tsugou	convenience, availability
+22	1	ひげ	hige	beard, moustache
+22	1	本棚	hondana	bookshelf, bookcase
+22	1	真っ暗	makkura	pitch-dark
+22	1	沸く	waku	boil, get loud (crowd applause etc.)
+22	1	売り切れる	urikireru	sell out, go out of stock
+22	1	押し入れ	oshiire	sliding-door closet
+22	1	革	kawa	leather
+22	1	ぐっすり	gussuri	soundly
+22	1	紅茶	koucha	black tea
+22	1	邪魔	jama	disturbance, blocking
+22	2	ソース	so-su	sauce
+22	2	足す	tasu	add (things of the same kind)
+22	2	トマト	tomato	tomato
+22	2	バター	bata-	butter
+22	2	発車	hassha	departure (of a vehicle)
+22	2	バレーボール	bare-ho-ru	volleyball
+22	2	おかず	okazu	dishes to go with the rice
+22	2	カレンダー	karenda-	calendar
+22	2	とにかく	tonikaku	in any case, anyway
+22	2	楽しみ	tanoshimi	enjoyment, something looked forward to
+22	3	おしゃべり	oshaberi	chatter, idle talk
+22	3	読書	dokusho	reading books
+22	3	寒気	samuke	chill
+22	3	夕焼け	yuuyake	sunset glow
+22	3	傷める	itameru	damage, hurt
+22	3	くすぐったい	kusuguttai	ticklish
+22	3	泥棒	dorobou	thief, burglar
+22	3	襖	fusuma	paper sliding door
+22	3	美人	bijin	beautiful woman
+22	3	タイプライター	taipuraita-	typewriter
+22	4	再来年	sarainen	the year after next
+22	4	冗談	joudan	joke
+22	4	近付く	chikaduku	approach, come close
+22	4	電話帳	denwachou	telephone book
+22	4	ベル	beru	bell
+22	4	干す（ほす）	hosu	hang (something) out to dry
+22	4	金額	kingaku	amount of money, sum
+22	4	蚊	ka	mosquito
+22	4	悲しむ	kanashimu	feel sad, lament
+22	4	クーラー	ku-ra-	air conditioner (cooling)
+22	5	失礼	shitsurei	rudeness, to excuse oneself
+22	5	洗濯機	sentakuki	washing machine, washer
+22	5	豆腐	toufu	tofu
+22	5	昼寝	hirune	nap
+22	5	不便	fuben	inconvenient
+22	5	ミルク	miruku	milk (loan word)
+22	5	向こう側	mukougawa	other side
+22	5	億	oku	hundred million
+22	5	お礼	orei	thanks, gratitude
+22	5	着せる	kiseru	dress (someone)
+22	6	サラダ	sarada	salad
+22	6	代える	kaeru	substitute for
+22	6	四角	shikaku	square
+22	6	急行	kyukou	express train
+22	6	交差点	kousaten	crossing, intersection
+22	6	覚める	sameru	awake, wake up (naturally)
+22	6	昼休み	hiruyasumi	lunch break
+22	6	ベルト	beruto	belt
+22	6	真っ黒	makkuro	black, jet-black
+22	6	皆様	minasama	everyone, ladies and gentlemen
+22	7	ラーメン	ra-men	ramen (Chinese noodles)
+22	7	ライター	raita-	lighter
+22	7	ワイシャツ	waishatsu	business shirt, dress shirt
+22	7	転ぶ	korobu	fall down, fall over
+22	7	シャワー	shawa-	shower
+22	7	扇風機	senpuuki	electric fan
+22	7	遅刻	chikoku	tardiness, lateness
+22	7	釣る	tsuru	fish, catch
+22	7	うどん	udon	Japanese wheat noodles
+22	7	仮名	kana	kana
+23	1	記念日	kinenbi	memorial day, anniversary
+23	1	下り	kudari	downhill, going down
+23	1	掲示板	keijiban	notice board, bulletin board
+23	1	凍る	kooru	freeze
+23	1	ごみ	gomi	trash
+23	1	スーパーマーケット	su-pa-ma-ketto	supermarket
+23	1	ぶらぶら	burabura	wander, walk around
+23	1	アナウンサー	anaunsa-	announcer
+23	1	自炊	jisui	cooking (for oneself)
+23	1	止める	tomeru	stop (something/someone)
+23	2	年下	toshishita	younger, junior
+23	2	治す	naosu	cure (something)
+23	2	箸	hashi	chopsticks
+23	2	花見	hanami	flower viewing
+23	2	引き出し	hikidashi	drawer
+23	2	訳	yaku	translation
+23	2	いかが	ikaga	how
+23	2	交通費	koutsuuhi	traveling expense, transportation fee
+23	2	ステレオ	sutereo	stereo
+23	2	再会	saikai	meeting again, reunion
+23	3	滑る	suberu	slide, slip
+23	3	早口	hayakuchi	speaking fast
+23	3	裏返す	uragaesu	turn over, turn inside out
+23	3	角	kado	corner, edge
+23	3	きらきら	kirakira	sparkling, glittering
+23	3	三角	sankaku	figure, area etc.
+23	3	激しい	hageshii	violent, intense
+23	3	経営	keiei	management, operation
+23	3	拡大	kakudai	magnification, enlargement
+23	3	姿勢	shisei	posture, attitude
+23	4	周辺	shuuhen	area, region
+23	4	他	ta	other (Chinese origin)
+23	4	達する	tassuru	attain, reach
+23	4	当時	touji	at that time
+23	4	当然	touzen	natural, as a matter of course
+23	4	能力	nouryoku	capability, performance ability of machine, etc.
+23	4	判断	handan	judgment, decision
+23	4	過ぎる	sugiru	pass by, go past
+23	4	正確	seikaku	accurate, precise
+23	4	戦争	sensou	war between countries
+23	5	放送	housou	broadcasting
+23	5	習慣	shuukan	custom, habit
+23	5	フィルム	fuirumu	film
+23	5	受け付ける	uketsukeru	receive, accept
+23	5	ダンス	dansu	dance, dancing (loan word)
+23	5	こんなに	konnani	this much, such
+23	5	吹く	fuku	blow, play (a wind instrument)
+23	5	まあ	Maa	well (interjection)
+23	5	メール	me-ru	e-mail
+23	5	インターネット	inta-netto	Internet
+23	6	出身	shusshin	come from, origin
+23	6	職業	shokugyou	occupation, job
+23	6	スター	suta-	star
+23	6	くだらない	kudaranai	worthless, trifling
+23	6	名簿	Meibo	name list
+23	6	通常	Tsuujou	common, usually, typically
+23	6	家内	kanai	one’s wife
+23	6	消防署	Shoubousho	fire station
+23	6	再び	Futatabi	again, a second time
+23	6	大統領	Daitouryou	president (of a country)
+23	7	入場券	Nyuujouken	entrance ticket
+23	7	ネックレス	nekkuresu	necklace
+23	7	パジャマ	pajama	pajamas
+23	7	ボールペン	Borupen	ballpoint pen
+23	7	かゆい	kayui	itchy
+23	7	覚ます	samasu	awaken, wake up
+23	7	すいか	Suika	watermelon
+23	7	そば	Soba	buckwheat noodles
+23	7	特急	tokkyuu	super-express
+23	7	のり	Nori	glue, starch
+24	1	大抵	たいてい	generally, mostly
+24	1	バスケットボール	basukettobo-ru	basketball
+24	1	酔っ払う	yopparau	get drunk
+24	1	どきどき	Dokidoki	feel excited, feel nervous
+24	1	欲しがる	hoshigaru	want, desire (of the third person)
+24	1	早起き	Hayaoki	getting up early
+24	1	味噌汁	misoshiru	miso soup
+24	1	読み方	yomikata	how to read, way of reading
+24	1	入り口	iriguchi	entrance
+24	1	降ろす	orosu	unload, set down
+24	2	掛かる	kakaru	hang
+24	2	サンドイッチ	sandoicchi	sandwich
+24	2	四角い	Shikakui	square-shaped
+24	2	突き当たる	tsukiataru	run into, come to the end (of a road)
+24	2	乾かす	kawakasu	dry (something)
+24	2	定期券	Teikiken	commuter pass
+24	2	にこにこ	nikoniko	smilingly, keep smiling
+24	2	下る	kudaru	go down, go away from
+24	2	ウール	wu-ru	wool
+24	2	コーラ	ko-ra	cola, coke
+24	3	トイレットペーパー	Toirettopepa	toilet paper
+24	3	乗り換え	norikae	transfer, change (trains)
+24	3	灰皿	haizara	ashtray
+24	3	ハム	hamu	ham
+24	3	床	yuka	floor
+24	3	ローマ字	Ro-maji	Roman alphabet
+24	3	いちご	ichigo	strawberry
+24	3	カレーライス	kareaisu	curry rice
+24	3	キャッシュカード	Kyasshukado	cash card
+24	3	停留所	teiryuujo	(bus) stop
+24	4	床屋	tokoya	barber, barbershop
+24	4	歯磨き	hamigaki	brushing one’s teeth
+24	4	夕飯	ゆうはん	evening meal, dinner
+24	4	酔っ払い	yopparai	drunkard, drunk
+24	4	例	Rei	example
+24	4	お辞儀	Ojigi	bow
+24	4	横断歩道	Oudan hodou	pedestrian crossing, crosswalk
+24	4	ぐらぐら	guragura	shaky, unstable
+24	4	航空便	Koukuubin	airmail, airfreight
+24	4	ジャム	Jamu	jam
+24	5	スリッパ	Surippa	slippers
+24	5	畳む	tatamu	fold, shut, close
+24	5	トランプ	toranpu	playing cards
+24	5	日陰	hikage	shade of the sun
+24	5	文房具	bunbougu	stationery, writing materials
+24	5	免許証	menkyoshou	license
+24	5	訳す	yakusu	translate
+24	5	よろしい	yoroshii	all right
+24	5	両替	ryougae	money exchange
+24	5	片付く	kataduku	be put in order, be finished
+24	6	カップ	kappu	cup
+24	6	消しゴム	keshigomi	eraser
+24	6	スケート	suketo	skate, skates
+24	6	鍋	nabe	pan
+24	6	寝坊	nebou	oversleeping
+24	6	鋏	hasami	scissors
+24	6	真っ青	massao	deep-blue, pale
+24	6	汚す	yogosu	make (something) dirty
+24	6	忘れ物	wasuremono	something left behind, lost item
+24	6	掛け算	kakezan	multiplication
+24	7	臭い	kusai	stinky
+24	7	突き当たり	tsukiatari	end of a street
+24	7	マフラー	mafura-	scarf, muffler
+24	7	桃	momo	peach
+24	7	アクセサリー	akusesari-	accessories, jewelry
+24	7	あくび	akubi	yawn
+24	7	あめ	ame	candy
+24	7	上り	nobori	going up, ascent
+24	7	なるべく	narubeku	as…as possible, if possible
+24	7	じっと	jitto	without moving, still
+25	1	食器	shokki	tableware
+25	1	延ばす	nobasu	extend, postpone
+25	1	薬局	yakkyoku	drugstore, pharmacy
+25	1	雄	osu	male (animal)
+25	1	雌	mesu	female (animal)
+25	1	和風	wafuu	Japanese inspired
+25	1	いびき	ibiki	snoring
+25	1	ピクニック	pikunikku	picnic
+25	1	地域	chiiki	region, area
+25	1	勘違い	kanchigai	misunderstanding, wrong idea or assumption
+25	2	重要	juuyou	important, essential
+25	2	主人	shujin	one’s husband, master
+25	2	お宅	otaku	(someone else’s) home
+25	2	ハイキング	haikingu	hiking
+25	2	畑	hatake	field, farm
+25	2	ボーイフレンド	boifurendo	boyfriend
+25	2	イヤリング	iyaringu	earrings
+25	2	ガールフレンド	ga-rufurendo	girlfriend
+25	2	柔らか	yawaraka	soft, gentle
+25	2	納豆	natto	fermented soybeans
+25	3	別に	Betsuni	particularly, not really
+25	3	どうしても	Doushitemo	by any means, really
+25	3	父親	chichioya	father
+25	3	誘う	sasou	invite, ask out
+25	3	母親	hahaoya	mother, female parent
+25	3	昼前	hirumae	in the morning, before noon
+25	3	ふらふら	furafura	be dizzy, lightheaded
+25	3	こぼす	kobosu	spill (something)
+25	3	持ってくる	mottekuru	bring
+25	3	振り向く	Furimuku	turn around, look back
+25	4	洗面所	Senmenjou	washroom, bathroom
+25	4	外側	sotogawa	exterior, outside
+25	4	段々	dandan	gradually, little by little
+25	4	包む	tsutsumu	wrap, pack
+25	4	無くなる	nakunaru	get lost, go missing
+25	4	豚	buta	pig
+25	4	褒める	homeru	praise, compliment
+25	4	沸かす	wakasu	boil (water)
+25	4	暖める	atatameru	warm (something) up
+25	4	換える	kaeru	exchange, convert
+25	5	安っぽい	yasuppoi	cheap-looking, tacky
+25	5	ぎらぎら	giragira	glaring, blinding
+25	5	何とか	nantoka	somehow, please
+25	5	いよいよ	iyoiyo	finally, any moment
+25	5	がらがら	garagara	not crowded
+25	5	缶詰	kantzume	canned food
+25	5	怪我	kega	injury
+25	5	寒さ	samusa	coldness, cold
+25	5	祝日	shukujitsu	holiday
+25	5	すき焼き	Sukiyaki	sukiyaki
+25	6	葉書	hagaki	postcard
+25	6	掃く	haku	sweep
+25	6	何しろ	nanishiro	anyhow, as you may know
+25	6	どんどん	dondon	quickly, rapidly
+25	6	ぺこぺこ	pekopeko	hungry, starving
+25	6	ぺらぺら	perapera	fluently
+25	6	レインコート	reinkoto	raincoat
+25	6	アイス	aisu	ice cream (for short)
+25	6	塩辛い	shiokarai	salty
+25	6	セロテープ	serote-pu	scotch tape
+25	7	大幅	oohaba	drastically, substantially
+25	7	教育	Kyouiku	education
+25	7	工事	Kouji	construction, repairing
+25	7	担当	tantou	person in charge (of official duties)
+25	7	法律	Houritsu	law
+25	7	丸	maru	circle, round
+25	7	発表	happyo	announcement
+25	7	研究	kenkyuu	research, study
+25	7	一方	ippou	one way, the other party
+25	7	国内	kokunai	domestic, internal
+26	1	全体	zentai	whole, total
+26	1	後	nochi	after, afterward
+26	1	人間	ningen	human being
+26	1	刺身	sashimi	sliced raw fish or meat
+26	1	ばら	Bara	rose
+26	1	ねずみ	nezumi	rat, mouse
+26	1	以下	ika	below
+26	1	昔	mukashi	old times, the old days
+26	1	訳	wake	reason, sense
+26	1	違い	chigai	difference, mistake
+26	2	しっかり	shikkari	mature, responsible
+26	2	将来	Shourai	future, in the future
+26	2	不思議	fushigi	mystery, wonder
+26	2	決して	kesshite	never, by no means
+26	2	失敗	shippai	failure, mistake
+26	2	番	ban	one’s turn, watch
+26	2	出会う	deau	meet, encounter
+26	2	悩む	nayamu	be troubled, suffer
+26	2	汗	ase	sweat
+26	2	すっかり	sukkari	all, completely
+26	3	代わり	kawari	substitution, alternative
+26	3	一言	hitokoto	single word, brief speech
+26	3	豊か	yutaka	rich, ample
+26	3	接続	setsuzoku	connection, joining
+26	3	抱える	kakaeru	hold in one’s arms
+26	3	エンジン	enjin	engine
+26	3	少女	shoujo	young girl
+26	3	無駄	muda	pointless, waste
+26	3	自動	jidou	automatic operation
+26	3	先輩	senpai	senior, superior
+26	4	眺める	nagameru	look out, gaze
+26	4	書類	Shorui	documents, papers
+26	4	年月	nengetsu	years, period of time
+26	4	燃やす	moyasu	burn (something)
+26	4	線路	senro	railway track, line
+26	4	水着	mizugi	bathing suit, swimsuit
+26	4	可愛らしい	kawairashii	lovely, charming
+26	4	仲良し	nakayoshi	good friend
+26	4	梅干し	umeboshi	pickled plum
+26	4	ドレス	doresu	formal dress
+26	5	尽くす	tsukusu	make utmost efforts, devote to
+26	5	地球	chikyuu	the earth
+26	5	不親切	fushinsetsu	unkind, inconsiderate
+26	5	からから	karakara	very thirsty, very dry
+26	5	本箱	honbako	bookcase
+26	5	横書き	yokogaki	horizontal writing
+26	5	そば屋	sobaya	buckwheat noodle shop
+26	5	加工	kakou	processing
+26	5	実験	jikken	experiment
+26	5	愛する	aisuru	love, care for
+26	6	あんまり	anmari	(not) that much, (not) so much
+26	6	いきなり	ikinari	all of a sudden, suddenly
+26	6	表	omote	front, outside
+26	6	汚れ	yogore	dirt, blot
+26	6	間	aida	interval, space between things
+26	6	紫	murasaki	purple
+26	6	灰色	haiiro	ash color, gray
+26	6	血	chi	blood (colloquial)
+26	6	顎	ago	jaw, chin
+26	6	始めに	hajimeni	in the beginning, first
+26	7	暖まる	atatameru	get warm
+26	7	お世辞	oseji	compliment, flattery
+26	7	袋	fukuro	bag, sack
+26	7	長袖	nagasode	long sleeves
+26	7	半袖	hansode	short sleeves
+26	7	形	katachi	shape, form
+26	7	景色	keshiki	natural scenery or landscape
+26	7	ざあざあ	zaazaa	pouring
+26	7	再来月	saraigetsu	the month after next
+26	7	泊める	tomeru	let (someone) stay over
+27	1	叱る	shikaru	scold, reprimand
+27	1	騒ぐ	sawagu	make a noise, make a racket
+27	1	車道	Shadou	road, roadway (for cars)
+27	1	掃除機	Soujiki	vacuum cleaner
+27	1	剃る	soru	shave
+27	1	貼る	haru	stick, paste, put
+27	1	台	dai	stand, table
+27	1	主に	omoni	mostly, predominantly
+27	1	倒す	taosu	knock down, overthrow
+27	1	星	hoshi	star, planet
+27	2	長女	choujo	eldest daughter
+27	2	爪	tsume	nail, claw
+27	2	缶	kan	can, tin
+27	2	とんとん	tonton	tapping, patting
+27	2	袖	sode	sleeve
+27	2	濡れる	nureru	get wet
+27	2	パーセント	pa-sento	percent
+27	2	上がる	agaru	go up, increase (in quality or quantity)
+27	2	拍手	hakushu	applause, clapping
+27	2	弾く	hiku	play (instruments)
+27	3	ひも	himo	laces, string
+27	3	昼過ぎ	hirusugi	early afternoon
+27	3	船	fune	ship, vessel
+27	3	まく	maku	scatter, sprinkle
+27	3	姪	mei	niece
+27	3	個人	kojin	individual person
+27	3	歌手	kashu	singer
+27	3	社員	Shain	staff member, employee
+27	3	不動産屋	fudousanya	real estate agent
+27	3	最大	saidai	biggest, largest
+27	4	動き	ugoki	movement, motion
+27	4	事件	jiken	affair, incident
+27	4	過去	kako	the past
+27	4	協力	kyouryoku	cooperation, collaboration
+27	4	時期	jiki	time, season
+27	4	経つ	tatsu	pass, elapse
+27	4	雷	kaminari	thunder, lightning
+27	4	責任	sekinin	responsibility
+27	4	願う	negau	wish, desire
+27	4	発見	hakken	discovery, revelation
+27	5	気	ki	spirit, temperament
+27	5	美容院	byouin	hair salon
+27	5	状況	joukyou	state of affairs, conditions
+27	5	目的	mokuteki	objective, purpose
+27	5	企業	kigyou	corporation, business
+27	5	釣り	tsuri	fishing
+27	5	漫画	manga	comics, cartoon
+27	5	温泉	onsen	hot spring
+27	5	トレーニング	tore-ningu	training, workout
+27	5	噂	uwasa	gossip, rumor
+27	6	本物	honmono	real, truly worthy (things, people)
+27	6	アイデア	aidea	idea
+27	6	地下	chika	underground
+27	6	マーケット	ma-ketto	market
+27	6	スケジュール	sukeju-ru	schedule (loan word)
+27	6	出張	shucchou	business trip
+27	6	コック	kokku	cook, chef
+27	6	正午	shougo	noon
+27	6	ブラシ	burashi	brush
+27	6	書き取る	kakitoru	write down, note down
+27	7	歓迎	kangei	welcome, greet
+27	7	開発	kaihatsu	development
+27	7	郵便屋さん	yuubinyasan	mail carrier
+27	7	会長	kaichou	president, chairperson
+27	7	金	kin	gold
+27	7	灰	hai	ashes
+27	7	骨	hone	bone
+27	7	風呂屋	furoya	bathhouse, public bath
+27	7	細か	komaka	small, fine, detailed
+27	7	行き	yuki	going, bound for (traditional reading)
+28	1	人々	hitobito	people
+28	1	寺	tera	temple
+28	1	鶏	niwatori	rooster, hen
+28	1	港	minato	port, harbor
+28	1	移る	utsuru	move, shift
+28	1	異なる	kotonaru	differ
+28	1	提供	teikyou	offer, provide
+28	1	市民	shimin	citizens
+28	1	患者	kanja	patient
+28	1	元旦	gantan	morning of the January 1st, New Year’s Day
+28	2	柔らかい	yawarakai	soft, gentle
+28	2	似合う	niau	suit, match well
+28	2	確かめる	tashikameru	check, confirm
+28	2	背中	senaka	(one’s) back
+28	2	肌	hada	human skin, surface
+28	2	順番	junban	order, turn
+28	2	まとも	matomo	sane, reasonable
+28	2	ぴったり	pittari	exactly right, perfect
+28	2	思わず	omowazu	unintentionally, unconsciously
+28	2	より	yori	even more ~, even less ~
+28	3	もったいない	mottainai	wasteful, a shame
+28	3	情報	jouhou	information
+28	3	諦める	akirameru	abandon, give up
+28	3	懐かしい	natsukashii	fondly-remembered, long-forgotten
+28	3	怪しい	ayashii	suspicious, dubious
+28	3	示す	shimesu	show, indicate
+28	3	たっぷり	tappuri	fully, amply
+28	3	早速	sassoku	immediately, right away
+28	3	偶然	guuzen	by chance, coincidence
+28	3	続き	tsuduki	continuation, sequel
+28	4	合計	goukei	sum, total
+28	4	傷	kizu	wound, scar
+28	4	面倒	mendou	troublesome, difficult
+28	4	具合	guai	condition, health
+28	4	中止	chuushi	suspension, cancellation
+28	4	手続き	tetsuduki	procedure, proceeding
+28	4	結果	kekka	result, outcome
+28	4	建設	kensetsu	construction (of a building, road, bridge, etc.)
+28	4	販売	hanbai	sale, selling
+28	4	機能	kinou	function, feature
+28	5	頃	koro	time, the time when ~
+28	5	日中	Nicchuu	during the day
+28	5	今後	Kongo	in the future, from now on
+28	5	影響	eikyou	influence, effect
+28	5	分野	bunya	field, area
+28	5	関する	kansuru	relate to, regarding
+28	5	状態	joutai	state, condition
+28	5	価格	kakaku	price, value
+28	5	姿	sugata	figure, appearance
+28	5	期待	kitai	expectation, anticipation
+28	6	除く	nozoku	remove, exclude
+28	6	一般	ippan	general, common
+28	6	表現	hyougen	expression
+28	6	完成	kansei	completion, finish making or building something
+28	6	変化	henka	change, alteration
+28	6	参加	sanka	participation
+28	6	土地	tochi	land
+28	6	検討	kentou	examination and consideration
+28	6	開始	kaishi	beginning
+28	6	備える	sonaete	provide for, prepare for
+28	7	内容	naiyou	content
+28	7	与える	ataeru	give (formal)
+28	7	広がる	hirogaru	spread out, extend
+28	7	事実	jijitsu	fact, truth
+28	7	決定	kettei	decision
+28	7	住宅	juutaku	housing, residence
+28	7	代表	daihyou	representative
+28	7	命令	meirei	command, order
+28	7	立場	tachiba	standpoint, position
+28	7	なお	Nao	still, in addition
+29	1	計算	keisan	calculation
+29	1	可能	kanou	possible, potential
+29	1	報告	houkoku	report
+29	1	都市	toshi	city, town
+29	1	政治	seiji	politics
+29	1	競争	kyousou	competition
+29	1	原因	genin	cause, origin
+29	1	活動	katsudou	activity
+29	1	歴史	rekishi	history
+29	1	表	hyou	table, list
+29	2	サイト	saito	website
+29	2	土産	miyage	souvenir (plain)
+29	2	臭い	nioi	(bad) smell
+29	2	現金	genkin	cash
+29	2	虫	mushi	insect, bug
+29	2	寄る	yoru	stop by, stop off
+29	2	田舎	inaka	hometown, countryside
+29	2	帰宅	kitaku	return home, come home
+29	2	重大	juudai	important, serious
+29	2	マイナス	mainasu	minus, below zero
+29	3	稼ぐ	kasegu	earn, make money
+29	3	左右	sayuu	right and left
+29	3	痛み	itami	pain, ache
+29	3	誤解	gokai	misunderstanding
+29	3	文句	monku	complaint, grumble
+29	3	欧米	oubei	Europe and America
+29	3	面接	mensetsu	interview
+29	3	サイン	sain	signature, autograph
+29	3	年中	nenjuu	all year
+29	3	機嫌	kigen	mood, health
+29	4	居間	ima	living room
+29	4	度々	tabitabi	often
+29	4	例文	reibun	example sentence
+29	4	怠ける	namakeru	be lazy, slack off
+29	4	転勤	tenkin	change of job location, relocation
+29	4	政府	seifu	government, administration
+29	4	所有	shoyuu	ownership, own
+29	4	いずれ	izure	sometime later, eventually
+29	4	対する	taisuru	face, be in response to
+29	4	教会	kyoukai	church
+29	5	ご存知	gozonji	know (honorific)
+29	5	雀	suzume	sparrow
+29	5	適当	tekitou	proper, adequate
+29	5	残り	nokori	rest, leftover
+29	5	戻す	modosu	put (something) back
+29	5	体重	taijuu	body weight
+29	5	どうせ	douse	anyway
+29	5	あれこれ	arekore	this and that, one thing or another
+29	5	湖	mizuumi	lake
+29	5	とうとう	toutou	finally, in the end
+29	6	負け	make	defeat, loss
+29	6	悔しい	kuyashii	frustrating, regrettable
+29	6	姉妹	shimai	sisters
+29	6	助かる	tasukaru	be helped, be rescued
+29	6	手前	temae	in front
+29	6	さっぱり	sappari	completely not
+29	6	ついで	tsuide	on the way, to take the opportunity
+29	6	すっきり	sukkiri	refreshed
+29	6	とんでもない	tondemonai	unthinkable, outrageous
+29	6	坂	saka	slope, hill
+29	7	飛び込む	tobikomu	dive into, jump into
+29	7	コメント	komento	comment
+29	7	書き直す	kakinaosu	rewrite
+29	7	看護婦	kangofu	female nurse
+29	7	就職	shuushoku	finding a job, getting a job
+29	7	糸	ito	thread, yarn
+29	7	売り場	uriba	sales floor, department
+29	7	校長	kouchou	principal, schoolmaster
+29	7	見学	kengaku	field trip
+29	7	進学	shingaku	advance to higher education
+30	1	退院	taiin	discharge from hospital
+30	1	テント	tento	tent
+30	1	踊り	odori	dance, dancing
+30	1	植える	ueru	plant, sow
+30	1	幼稚園	youchien	kindergarten
+30	1	エアメール	eameeru	airmail
+30	1	四季	shiki	the four seasons
+30	1	ナイロン	nairon	nylon
+30	1	消防車	shoubousha	fire engine
+30	1	ハンドバッグ	handobaggu	handbag
+30	2	農業	nougyou	agriculture
+30	2	アイロン	airon	iron (for clothes)
+30	2	ラッシュアワー	rasshuawaa	rush hour
+30	2	速達	sokutatsu	special delivery, express delivery
+30	2	予習	yoshuu	preparation, previewing (a lesson)
+30	2	書留	kakitome	registered mail
+30	2	深さ	fukasa	depth, profundity
+30	2	ウィスキー	wisukii	whisky
+30	2	シャープペンシル	shaapupenshiru	mechanical pencil
+30	2	取引	torihiki	transaction, deal
+30	3	設ける	moukeru	set up, establish
+30	3	一定	ittei	fixed, certain
+30	3	記者	kisha	journalist, reporter
+30	3	基準	kijun	standard, criterion
+30	3	傾向	keikou	tendency, disposition
+30	3	契約	keiyaku	contract, agreement
+30	3	産業	sangyou	industry
+30	3	事情	jijou	circumstances, conditions
+30	3	実行	jikkou	practice, execution
+30	3	組織	soshiki	organization, structure
+30	4	逮捕	taiho	arrest, capture
+30	4	程度	teido	degree, extent
+30	4	同様	douyou	similar, the same as
+30	4	要求	youkyuu	need, demand
+30	4	貿易	boueki	(export and import) trade
+30	4	輸出	yushutsu	export
+30	4	商業	shougyou	commerce, trade
+30	4	船便	funabin	surface mail, shipping service
+30	4	選挙	senkyo	election
+30	4	住民	juumin	resident
+30	5	出席	shusseki	attendance, presence
+30	5	発言	hatsugen	utterance, remark
+30	5	伴う	tomonau	accompany, entail
+30	5	採用	saiyou	employment, adoption
+30	5	処理	shori	handling, processing
+30	5	解決	kaiketsu	solution, settlement
+30	5	全国	zenkoku	the whole country
+30	5	作業	sagyou	work, operation
+30	5	生産	seisan	production
+30	5	管理	kanri	management, administration
+30	6	増加	zouka	increase, rise
+30	6	特徴	tokuchou	distinctive feature, characteristic
+30	6	強調	kyouchou	emphasis, stress
+30	6	制度	seido	system
+30	6	株	kabu	stock, share
+30	6	加える	kuwaeru	add (things of the same or different kinds)
+30	6	強化	kyouka	strengthening
+30	6	設計	sekkei	design, plan
+30	6	段階	dankai	stage, phase
+30	6	行う	okonau	do, carry out
+30	7	経済	keizai	economy, economics
+30	7	工場	koujou	factory, plant
+30	7	技術	gijutsu	skill, technology
+30	7	施設	shisetsu	facilities, institution
+30	7	神	kami	God
+30	7	人口	jinkou	population
+30	7	党	tou	party, faction
+30	7	輸入	yunyuu	import
+30	7	煮る	niru	simmer, cook
+30	7	コンサート	konsaato	concert
+31	1	ガソリン	gasorin	gasoline
+31	1	パンツ	pantsu	pants, trousers
+31	1	そっくり	sokkuri	almost identical
+31	1	名刺	meishi	business card, name card
+31	1	いちいち	ichiichi	every time, about everything
+31	1	しつこい	shitsukoi	persistent, pesky
+31	1	喉	nodo	throat
+31	1	身長	shinchou	height
+31	1	何で	nande	why, what for
+31	1	味噌	miso	soybean paste
+31	2	気の毒	kinodoku	pitiful, poor
+31	2	そっと	sotto	softly, gently
+31	2	こっそり	kossori	secretly
+31	2	うっかり	ukkari	carelessly, accidentally
+31	2	わざと	wazato	on purpose
+31	2	がっかり	gakkari	disappointed, disappointing
+31	2	ぼんやり	bonyari	vacantly, absent-mindedly
+31	2	酢	su	vinegar
+31	2	羨ましい	urayamashii	envious, jealous
+31	2	捕まえる	tsukamaeru	catch, arrest
+31	3	ちっとも	chittomo	not at all
+31	3	親指	oyayubi	thumb
+31	3	通り過ぎる	toorisugiru	go past, pass
+31	3	屋上	okujou	housetop, rooftop
+31	3	蓋	futa	lid, cover
+31	3	いつの間にか	itsunomanika	before noticing it, out of nowhere
+31	3	象	zou	elephant
+31	3	嫌がる	iyagaru	dislike, be unwilling
+31	3	わがまま	wagamama	selfish
+31	3	徹夜	tetsuya	staying up all night
+31	4	まあまあ	maamaa	now now, well well
+31	4	ふざける	fuzakeru	mess around, fool around
+31	4	一度に	ichidoni	all at once, at a time
+31	4	頷く	unazuku	nod
+31	4	改札	kaisatsu	ticket gate
+31	4	手伝い	tetsudai	help, assistance
+31	4	とっくに	tokkuni	long ago, already
+31	4	洗剤	senzai	detergent
+31	4	手首	tekubi	wrist
+31	4	日帰り	higaeri	a day trip
+31	5	取り消す	torikesu	cancel
+31	5	あきれる	akireru	be amazed at, be stunned by (something negative)
+31	5	月末	getsumatsu	end of the month
+31	5	咳	seki	cough
+31	5	あいにく	ainiku	unfortunately, we are afraid that
+31	5	近寄る	chikayoru	go near, approach
+31	5	うろうろ	urouro	in a loafing-about manner, not really knowing what to do
+31	5	重たい	omotai	heavy, serious
+31	5	かじる	kajiru	nibble, bite
+31	5	長引く	nagabiku	be prolonged, drag on
+31	6	せっせと	sesseto	diligently, hard
+31	6	横切る	yokogiru	cut across
+31	6	取り替える	torikaeru	change, replace
+31	6	からかう	karakau	make fun of, tease
+31	6	好き嫌い	sukikirai	likes and dislikes, taste
+31	6	蒸し暑い	mushiatsui	hot and humid
+31	6	支度	shitaku	preparation, getting ready
+31	6	薄暗い	usugurai	gloomy, dim
+31	6	着替え	kigae	change of clothes
+31	6	ワンピース	wanpiisu	one-piece dress
+31	7	生年月日	seinengappi	year and date of birth
+31	7	虫歯	mushiba	cavity
+31	7	留守番	rusuban	looking after the house
+31	7	張り切る	harikiru	go all out, be full of energy (to do something)
+31	7	意地悪	ijiwaru	mean, ill-natured
+31	7	生意気	namaiki	impudent, cocky
+31	7	シーツ	shiitsu	bed sheet
+31	7	フライパン	furaipan	frying pan
+31	7	一人一人	hitorihitori	each and every person
+31	7	話し掛ける	hanashikakeru	start a conversation, speak to (someone)
+32	1	追い掛ける	oikakeru	chase, run after
+32	1	小指	koyubi	little finger, little toe
+32	1	ぴかぴか	pikapika	shiny, glittering
+32	1	中指	nakayubi	middle finger, middle toe
+32	1	まぶた	mabuta	eyelid
+32	1	面倒臭い	mendoukusai	troublesome, tiresome
+32	1	ゆでる	yuderu	boil
+32	1	できるだけ	dekirudake	as (much) as possible
+32	1	もしかしたら	moshikashitara	possibly, perhaps
+32	1	いつまでも	itsumademo	forever
+32	2	まぶしい	mabushii	dazzling, glaring
+32	2	おやつ	oyatsu	snack, refreshment
+32	2	空っぽ	karappo	empty
+32	2	ぶつぶつ	butsubutsu	in a mutter, mumble
+32	2	すっと	sutto	(feel) refreshed, satisfied
+32	2	図々しい	zuuzuushii	impudent, cheeky
+32	2	にっこり	nikkori	smiling brightly
+32	2	けち	kechi	stingy, miser
+32	2	追い付く	oitsuku	catch up with
+32	2	くしゃみ	kushami	sneeze
+32	3	冷ます	samasu	let cool
+32	3	だらしない	darashinai	untidy, sloppy
+32	3	甘やかす	amayakasu	be indulgent to, spoil
+32	3	いらいら	iraira	irritated
+32	3	薬指	kusuriyubi	ring finger
+32	3	のろのろ	noronoro	slowly, sluggishly
+32	3	ポイント	pointo	point
+32	3	工業	kougyou	industry, the manufacturing industry
+32	3	構造	kouzou	construction, structure
+32	3	さすが	sasuga	just as expected, true to reputation
+32	4	居眠り	inemuri	doze, catnap
+32	4	散らかす	chirakasu	make a mess
+32	4	濡らす	nurasu	get (something) wet
+32	4	日にち	hinichi	date (fixed for something)
+32	4	苛める	ijimeru	bully, abuse
+32	4	足下	ashimoto	step, under foot
+32	4	うさぎ	usagi	rabbit, hare
+32	4	紺	kon	dark blue, navy blue
+32	4	目茶苦茶	mechakucha	in a mess, chaotic
+32	4	立ち入り禁止	tachiirikinshi	no trespassing
+32	5	間もなく	mamonaku	soon, in a short time
+32	5	通帳	tsuuchou	bankbook, passbook
+32	5	しびれる	shibireru	go numb, fall asleep
+32	5	ぎっしり	gisshiri	tightly, closely
+32	5	うがい	ugai	gargling
+32	5	思い付く	omoitsuku	think of, hit upon
+32	5	宛名	atena	name of recipient, addressee
+32	5	戸棚	todana	cupboard
+32	5	焦げる	kogeru	be burned, be scorched
+32	5	かく	kaku	scratch
+32	6	威張る	ibaru	be arrogant, be boastful
+32	6	人混み	hitogomi	crowd
+32	6	ずらり	zurari	lining up neatly
+32	6	思い切り	omoikiri	to one’s heart’s content, with all one’s might
+32	6	青白い	aojiroi	pale
+32	6	しゃがむ	shagamu	squat down
+32	6	言葉遣い	kotobadukai	wording, language
+32	6	通り掛かる	toorikakaru	happen to pass by
+32	6	御無沙汰	gobusata	be out of touch
+32	6	市場	shijou	market (industrial, financial, etc.)
+32	7	データ	deeta	data
+32	7	購入	kounyuu	purchase
+32	7	ビジネス	bijinesu	business
+32	7	俺	ore	I (masculine sense)
+32	7	登録	touroku	registration
+32	7	体験	taiken	personal experience
+32	7	デザイン	dezain	design
+32	7	負担	futan	burden, charge
+32	7	詳細	shousai	details, particulars
+32	7	アップ	appu	close-up
+33	1	終了	shuuryou	end, termination
+33	1	ファン	fan	fan, admirer
+33	1	予想	yosou	expectation, forecast
+33	1	企画	kikaku	planning, project
+33	1	財政	zaisei	public finance, financial affairs
+33	1	総合	sougou	integration, put together
+33	1	ケース	keesu	case
+33	1	メーカー	meekaa	maker, manufacturer
+33	1	治療	chiryou	medical treatment
+33	1	読者	dokusha	reader
+33	2	職員	shokuin	staff, employee
+33	2	世代	sedai	generation
+33	2	視点	shiten	viewpoint, perspective
+33	2	効率	kouritsu	efficiency, performance
+33	2	資産	shisan	property, assets
+33	2	取り組む	torikumu	work on, tackle
+33	2	ルール	ruuru	rule
+33	2	資格	shikaku	qualifications, competence
+33	2	成果	seika	result
+33	2	前提	zentei	assumption, premise
+33	3	現地	genchi	local, on-site
+33	3	内部	naibu	interior, inner parts
+33	3	所得	shotoku	income, earnings
+33	3	恋愛	renai	romance, relationship
+33	3	支持	shiji	support
+33	3	危機	kiki	crisis, danger
+33	3	マスコミ	masukomi	mass media, media
+33	3	証拠	shouko	proof, evidence
+33	3	コーナー	koonaa	section (of a store etc.), corner
+33	3	マーク	maaku	logo
+33	4	減少	genshou	decrease, decline
+33	4	緊急	kinkyuu	urgent, emergency
+33	4	要望	youbou	demand, request
+33	4	ストレス	sutoresu	stress
+33	4	主催	shusai	sponsorship, host
+33	4	ベスト	besuto	best
+33	4	犠牲	gisei	sacrifice, loss
+33	4	暴力	bouryoku	violence, force
+33	4	赤字	akaji	deficit, in the red
+33	4	個性	kosei	individuality, unique characteristics
+33	5	作戦	sakusen	tactic, strategy
+33	5	ショック	shokku	shock
+33	5	アンケート	ankeeto	questionnaire
+33	5	わざわざ	wazawaza	going out of one’s way to do something
+33	5	本気	honki	serious, earnest
+33	5	悩み	nayami	troubles, worries
+33	5	上司	joushi	boss
+33	5	説得	settoku	persuasion
+33	5	ブーム	buumu	fad, boom
+33	5	体力	tairyoku	physical strength, stamina
+33	6	正常	seijou	normal
+33	6	ヒント	hinto	hint, clue
+33	6	地獄	jigoku	hell
+33	6	後悔	koukai	regret
+33	6	情熱	jounetsu	passion, enthusiasm
+33	6	驚き	odoroki	surprise, amazement
+33	6	ジャンプ	janpu	jump
+33	6	アルコール	arukooru	alcohol, alcoholic beverage
+33	6	いい加減	iikagen	irresponsible, careless
+33	6	わくわく	wakuwaku	feel excited, be thrilled
+33	7	言い訳	iiwake	excuse
+33	7	ミュージック	myuujikku	music
+33	7	青春	seishun	blossom of youth, adolescence
+33	7	あっさり	assari	bluntly, easily
+33	7	焦る	aseru	feel pressured, feel hurried
+33	7	柔軟	juunan	pliable, flexible
+33	7	タレント	tarento	celebrity, TV personality
+33	7	どうにか	dounika	somehow
+33	7	コンテスト	kontesuto	contest, competition
+33	7	もてる	moteru	be popular (esp. with the opposite sex)
+34	1	デザート	dezaato	dessert
+34	1	クイズ	kuizu	quiz, quiz show
+34	1	中毒	chuudoku	poisoning, addiction
+34	1	ムード	muudo	mood
+34	1	同情	doujou	sympathy, compassion
+34	1	学歴	gakureki	educational background
+34	1	好調	kouchou	good condition
+34	1	アマチュア	amachua	amateur
+34	1	炒める	itameru	stir-fry
+34	1	カメラマン	kameraman	photographer
+34	2	問い合わせる	toiawaseru	inquire, ask for (information)
+34	2	しょっちゅう	shocchuu	frequently, repeatedly
+34	2	ロープ	roopu	rope
+34	2	ストライキ	sutoraiki	strike
+34	2	パンク	panku	flat tire
+34	2	コマーシャル	komaasharu	commercial, advertising
+34	2	チェンジ	chenji	change, exchange
+34	2	待ち合わせ	machiawase	meeting with someone, appointment
+34	2	時差	jisa	time difference
+34	2	義理	giri	sense of duty, obligation
+34	3	さっと	satto	quickly
+34	3	左利き	hidarikiki	left-handedness
+34	3	サボる	saboru	slack of, ditch
+34	3	だるい	darui	feel run-down, weary
+34	3	ポット	potto	pot, thermos
+34	3	レントゲン	rentogen	X-rays
+34	3	心強い	kokoroduyoi	reassuring, heartening
+34	3	無駄遣い	mudadukai	wasteful spending
+34	3	バッジ	bajji	badge
+34	3	眼科	ganka	ophthalmology, eye clinic
+34	4	履歴書	rirekisho	resume, curriculum vitae
+34	4	インフレーション	infureeshon	inflation
+34	4	癌	gan	cancer
+34	4	ぺこぺこ	pekopeko	bow, kowtow
+34	4	嘘つき	usotsuki	liar
+34	4	おごる	ogoru	treat, pay for (someone)
+34	4	十字路	juujiro	crossroads
+34	4	びっしょり	bisshori	drenched, soaked
+34	4	だぶだぶ	dabudabu	baggy, too big
+34	4	おだてる	odateru	flatter
+34	5	かかと	kakato	heel
+34	5	ほっと	hotto	feel relieved
+34	5	傷付ける	kizutsukeru	hurt (someone), damage (something)
+34	5	うつむく	utsumuku	look down, lower one’s eyes
+34	5	前売り券	maeuriken	advance ticket
+34	5	短期	tanki	short-term
+34	5	舐める	nameru	lick
+34	5	本日	honjitsu	today (formal)
+34	5	業界	gyoukai	industry, business world
+34	5	ネットワーク	nettowaaku	network
+34	6	弁護士	bengoshi	lawyer, attorney
+34	6	入力	nyuuryoku	input, entry
+34	6	前回	zenkai	last time
+34	6	画面	gamen	screen
+34	6	後半	kouhan	latter half, second half
+34	6	自信	jishin	confidence
+34	6	素敵	suteki	lovely, nice
+34	6	当たり前	atarimae	no wonder, natural
+34	6	やり方	yarikata	way of doing
+34	6	わずか	wazuka	meager, marginal
+34	7	ついに	tsuini	at last, at length
+34	7	次回	jikai	next time
+34	7	スピード	supiido	speed
+34	7	バイト	baito	part-time job
+34	7	不可能	fukanou	impossible
+34	7	アドバイス	adobaisu	advice
+34	7	落ち着く	ochitsuku	calm down, settle in
+34	7	せっかく	sekkaku	with much trouble
+34	7	つい	tsui	inadvertently, carelessly
+34	7	大手	oote	major company
+35	1	部長	buchou	department head
+35	1	前半	zenhan	first half
+35	1	たまたま	tamatama	by chance, accidentally
+35	1	相変わらず	aikawarazu	as usual, as before
+35	1	支払い	shiharai	payment
+35	1	人数	ninzuu	number of people
+35	1	課長	kachou	section chief
+35	1	ファッション	fasshon	fashion
+35	1	体調	taichou	health condition
+35	1	付き合う	tsukiau	socialize with, see (someone)
+35	2	ショッピング	shoppingu	shopping
+35	2	あり	ari	ant
+35	2	最悪	saiaku	worst
+35	2	かえる	kaeru	frog
+35	2	おじさん	ojisan	Mister, middle-aged man
+35	2	得	toku	advantage, gain
+35	2	掴む	tsukamu	grip, grab
+35	2	知り合い	shiriai	acquaintance
+35	2	ペース	peesu	pace
+35	2	作成	sakusei	to produce, to make
+35	3	親子	oyako	parent and child
+35	3	話し合い	hanashiai	talk, discussion
+35	3	本社	honsha	head office of a company
+35	3	打ち合わせ	uchiawase	meeting, arrangement
+35	3	見守る	mimamoru	watch, keep watch over
+35	3	売り上げ	uriage	sales, proceeds
+35	3	かえって	kaette	rather, instead
+35	3	アイドル	aidoru	idol
+35	3	何となく	nantonaku	for some reason
+35	3	年末	nenmatsu	end of year
+35	4	無意識	muishiki	unconsciously, unintentionally
+35	4	駅前	ekimae	in front of the station
+35	4	やって来る	yattekuru	come all the way
+35	4	キッチン	kicchin	kitchen
+35	4	キス	kisu	kiss
+35	4	慌てる	awateru	be flustered, be in a hurry
+35	4	都内	tonai	in the metropolitan area of Tokyo
+35	4	残業	zangyou	overtime work
+35	4	曖昧	aimai	ambiguous, vague
+35	4	カタログ	katarogu	catalogue
+35	5	殴る	naguru	hit, punch
+35	5	両手	ryoute	both hands
+35	5	仲良く	nakayoku	harmoniously, getting along
+35	5	始め	hajime	beginning, initial part
+35	5	知り合う	shiriau	get acquainted with, get to know (someone)
+35	5	お手伝い	otetsudai	help, assistance (polite)
+35	5	マナー	manaa	manners
+35	5	カラオケ	karaoke	karaoke
+35	5	二度と	nidoto	never again
+35	5	片手	katate	one hand
+35	6	おばさん	obasan	middle-aged woman
+35	6	保育園	hoikuen	day-care center, nursery school
+35	6	ずれる	zureru	go off track, go out of line
+35	6	ビーチ	biichi	beach
+35	6	せいぜい	seizei	at most, at best
+35	6	後期	kouki	latter term, second half
+35	6	エアコン	eakon	air-conditioning, air conditioner
+35	6	ゆったり	yuttari	comfortable, easy fit
+35	6	ハードウェア	haadowea	hardware
+35	6	リクエスト	rikuesuto	request
+35	7	翌年	yokunen	the following year
+35	7	キャンセル	kyanseru	cancellation
+35	7	車内	shanai	inside a vehicle or a train
+35	7	大声	oogoe	loud voice
+35	7	無責任	musekinin	irresponsible
+35	7	片方	katahou	one side, the other one
+35	7	ボリューム	boryuumu	volume
+35	7	前方	zenpou	front, ahead
+35	7	日本酒	nihonshu	Japanese rice wine
+35	7	青空	aozora	blue sky
+36	1	不自然	fushizen	unnatural, artificial
+36	1	昨晩	sakuban	last night, last evening (formal)
+36	1	市役所	shiyakusho	municipal office, city hall
+36	1	フルーツ	furuutsu	fruit
+36	1	年々	nennen	year by year
+36	1	後方	kouhou	back, rear
+36	1	お詫び	owabi	apologize, apology
+36	1	大根	daikon	oriental radish
+36	1	むく	muku	peel (something)
+36	1	例年	reinen	typical year, average year
+36	2	締め切り	shimekiri	deadline
+36	2	正に	masani	just, surely
+36	2	蛇	hebi	snake
+36	2	ラッシュ	rasshu	rush, rush hour
+36	2	大げさ	oogesa	exaggerated
+36	2	無理やり	muriyari	forcibly, against one’s will
+36	2	外食	gaishoku	eating out, dining out
+36	2	キャベツ	kyabetsu	cabbage
+36	2	手足	teashi	hands and feet, limbs
+36	2	閉店	heiten	shop closing
+36	3	百貨店	hyakkaten	department store
+36	3	クッキー	kukkii	cookie
+36	3	車椅子	kurumaisu	wheelchair
+36	3	大雨	ooame	heavy rain
+36	3	鳩	hato	pigeon, dove
+36	3	中級	chuukyuu	middle-class, intermediate
+36	3	おにぎり	onigiri	rice ball
+36	3	ひょっとしたら	hyottoshitara	perhaps
+36	3	ぐるぐる	guruguru	round and round
+36	3	和食	washoku	Japanese-style food
+36	4	どく	doku	get out of the way, step aside
+36	4	ウエスト	uesuto	waist
+36	4	忘年会	bounenkai	year-end party
+36	4	包丁	houchou	kitchen knife
+36	4	ゴールデンウィーク	goorudenwiiku	golden week
+36	4	シューズ	shuuzu	shoes
+36	4	未成年	miseinen	minor, underage
+36	4	甥	oi	nephew
+36	4	葉っぱ	happa	leaf
+36	4	やり直す	yarinaosu	do over again
+36	5	大晦日	oomisoka	new year’s eve
+36	5	サングラス	sangurasu	sunglasses
+36	5	病人	byounin	sick person
+36	5	顔色	kaoiro	complexion, facial expression
+36	5	金色	kiniro	golden color
+36	5	にらむ	niramu	glare, stare
+36	5	つかまる	tsukamaru	hold on to (something)
+36	5	足首	ashikubi	ankle
+36	5	散らかる	chirakaru	be in a mess, lie scattered
+36	5	上がる	agaru	get nervous
+36	6	かぼちゃ	kabocha	pumpkin
+36	6	水族館	suizokukan	aquarium
+36	6	品切れ	shinagire	sold out
+36	6	腫れる	hareru	swell up, be swollen
+36	6	やり直し	yarinaoshi	doing over, redoing
+36	6	バーゲン	baagen	bargain sale
+36	6	男らしい	otokorashii	manly, masculine
+36	6	近道	chikamichi	shortcut
+36	6	トースト	toosuto	toast
+36	6	好奇心	koukishin	curiosity
+36	7	実用的	jitsuyouteki	practical
+36	7	客観的	kyakkanteki	objective
+36	7	抽象的	chuushouteki	abstract
+36	7	送別会	soubetsukai	farewell party
+36	7	敷金	shikikin	deposit, security deposit
+36	7	日米	nichibei	Japan and the US
+36	7	専門家	senmonka	specialist, expert
+36	7	ホット	hotto	hot
+36	7	わさび	wasabi	Japanese horseradish
+36	7	初詣	hatsumoude	first shrine visit of the new year
+37	1	ジョギング	jogingu	jogging
+37	1	社会人	shakaijin	working member of society
+37	1	大急ぎ	ooisogi	in a great hurry
+37	1	セルフサービス	serufusaabisu	self-service
+37	1	くしゃくしゃ	kushakusha	messy, crumpled
+37	1	食パン	shokupan	bread in a rectangular shape
+37	1	人差し指	hitosashiyubi	index finger, forefinger
+37	1	洋食	youshoku	Western food
+37	1	じめじめ	jimejime	damp
+37	1	じろじろ	jirojiro	staringly
+37	2	つるつる	tsurutsuru	smooth, slippery
+37	2	こしょう	koshou	pepper
+37	2	びしょびしょ	bishobisho	soaking wet, soaked
+37	2	ぎゅうぎゅう	gyuugyuu	packed, crammed
+37	2	バツ	batsu	cross, x-mark (on errors, mistakes etc.)
+37	2	水色	mizuiro	light blue
+37	2	領収書	ryoushuusho	bill of receipt (for payment only)
+37	2	自然に	shizenni	naturally
+37	2	とんかつ	tonkatsu	pork cutlet
+37	2	ねぎ	negi	spring onion, green onion
+37	3	きゅうり	kyuuri	cucumber
+37	3	鰻	unagi	eel
+37	3	まぐろ	maguro	tuna
+37	3	パイナップル	painappuru	pineapple
+37	3	ほうれん草	hourensou	spinach
+37	3	マヨネーズ	mayoneezu	mayonnaise
+37	3	玉ねぎ	tamanegi	onion
+37	3	焼き肉	yakiniku	grilled meat, barbecued meat
+37	3	目薬	megusuri	eye drops
+37	3	寝過ごす	nesugosu	oversleep
+37	4	国際的	kokusaiteki	international
+37	4	国際化	kokusaika	internationalization
+37	4	区役所	kuyakusho	ward office
+37	4	和室	washitsu	Japanese-style room
+37	4	本格的	honkakuteki	authentic, serious
+37	4	高速道路	kousokudouro	freeway, expressway
+37	4	とりあえず	toriaezu	for now, for the time being
+37	4	先に	sakini	before, ahead
+37	4	ぎりぎり	girigiri	just in time, barely
+37	4	慌ただしい	awatadashii	busy and hurried
+37	5	今ごろ	imagoro	by now, at this time
+37	5	くっ付く	kuttsuku	stick, be attached
+37	5	北風	kitakaze	north wind
+37	5	海老	ebi	shrimp
+37	5	思い切って	omoikitte	daringly, taking the plunge
+37	5	はっと	hatto	taken aback, startled
+37	5	宛先	atesaki	recipient’s address
+37	5	ばらばら	barabara	separately, discretely
+37	5	乗車券	joushaken	train ticket, bus ticket
+37	5	ぶるぶる	buruburu	shivering, trembling
+37	6	すらすら	surasura	smoothly, easily
+37	6	終電	shuuden	last train
+37	6	ずるい	zurui	cunning, sneaky
+37	6	すやすや	suyasuya	(sleep) peacefully, soundly
+37	6	がたがた	gatagata	with a rattling noise, unstable
+37	6	非常口	hijouguchi	emergency exit
+37	6	ざらざら	zarazara	rough, gritty
+37	6	ぬるぬる	nurunuru	slimy
+37	6	女らしい	onnarashii	womanly, feminine
+37	6	急用	kyuuyou	urgent business
+37	7	きょろきょろ	kyorokyoro	look around
+37	7	ぐずぐず	guzuguzu	slowly, tardily
+37	7	ぽかぽか	pokapoka	pleasantly warm
+37	7	洗い物	araimono	dishes to be washed
+37	7	かっと	katto	in a temper, in a rage
+37	7	どきっと	dokitto	surprised, shocked
+37	7	乗り遅れる	noriokureru	miss (a train, bus, etc.)
+37	7	くたくた	kutakuta	exhausted
+37	7	すべすべ	subesube	smooth, silky
+37	7	にやにや	niyaniya	grin to oneself
+38	1	あだ名	adana	nickname
+38	1	後片付け	atokataduke	cleaning up
+38	1	イカ	ika	squid
+38	1	うきうき	ukiuki	excitedly
+38	1	可愛がる	kawaigaru	love, cherish
+38	1	餃子	gyouza	Chinese dumpling
+38	1	げらげら	geragera	(laugh) out loud
+38	1	ごめん	gomen	sorry
+38	1	明々後日	shiasatte	three days from today
+38	1	削減	sakugen	cutdown, reduction
+38	2	贅沢	zeitaku	luxury, extravagance
+38	2	そのうち	sonouchi	before long, sooner or later
+38	2	でこぼこ	dekoboko	unevenness, bumpiness
+38	2	手のひら	tenohira	palm
+38	2	裸足	hadashi	bare feet
+38	2	べたべた	betabeta	stick together, sticky
+38	2	眉毛	mayuge	eyebrows
+38	2	割り箸	waribashi	disposable chopsticks
+38	2	日付け	hiduke	date (written in a document, etc.)
+38	2	ぴたりと	pitarito	suddenly, coming to a dead stop
+38	3	まな板	manaita	chopping board
+38	3	筆記用具	hikkiyougu	pens and pencils, writing materials
+38	3	くすぐる	kusuguru	tickle
+38	3	かんかん	kankan	furiously angry, in a rage
+38	3	白線	hakusen	white (warning) line
+38	3	見覚え	mioboe	recognition, remembrance
+38	3	これまで	koremade	until now, until here
+38	3	からす	karasu	crow, raven
+38	3	噛み付く	kamitsuku	bite
+38	3	白菜	hakusai	Chinese cabbage
+38	4	プロ野球	puroyakyuu	professional baseball
+38	4	かみそり	kamisori	razor
+38	4	何十	nanjuu	several tens
+38	4	何百	nanbyaku	several hundred, hundreds
+38	4	何千	nanzen	several thousand, thousands
+38	4	がくんと	gakunto	sharply, significantly
+38	4	飛び下りる	tobioriru	jump off, jump down
+38	4	通行止め	tsuukoudome	road closed
+38	4	行き止まり	ikidomari	dead end
+38	4	真ん丸	manmaru	perfect circle, perfectly round
+38	5	いつの間に	itsunomani	without anyone noticing
+38	5	くっ付ける	kuttsukeru	attach (something), stick (something)
+38	5	付け足す	tsuketasu	add on, append
+38	5	得する	tokusuru	profitable, beneficial
+38	5	損する	sonsuru	lose, suffer loss
+38	5	言い返す	iikaesu	talk back
+38	5	体温計	taionkei	(clinical) thermometer
+38	5	後戻り	atomodori	turning back, retreat
+38	5	話し声	hanashigoe	talking voice
+38	5	くるくる	kurukuru	round and round, spin
+38	6	怖がる	kowagaru	be afraid of, fear
+38	6	人違い	hitochigai	mistaken identity
+38	6	取り返す	torikaesu	take back, regain
+38	6	乗り降り	noriori	getting on and off
+38	6	口喧嘩	kuchigenka	quarrel
+38	6	起き上がる	okiagaru	get up, rise
+38	6	ぶら下がる	burasagaru	hang down, dangle
+38	6	飛び上がる	tobiagaru	fly up, fump up
+38	6	泣き声	nakigoe	tearful voice, sound of crying
+38	6	持ち物	mochimono	one’s belongings
+38	7	細長い	hosonagai	long and thin, long and narrow
+38	7	出入り口	deiriguchi	doorway, gateway
+38	7	正座	seiza	sitting on one’s heels
+38	7	大喜び	ooyorokobi	great joy
+38	7	落とし物	otoshimono	lost property
+38	7	じゃんじゃん	janjan	many times, repeatedly
+38	7	見違える	michigaeru	look completely different
+38	7	合理的	gouriteki	rational, logical
+38	7	自主的	jishuteki	voluntary, independent
+38	7	全面的	zenmenteki	full-scale, complete
+39	1	円高	endaka	strong yen
+39	1	消費者	shouhisha	consumer
+39	1	日中	nicchuu	Japan and China
+39	1	明日	asu	tomorrow (rather formal)
+39	1	結構	kekkou	all right, no thank you
+39	1	辛い	tsurai	hard, painstaking
+39	1	まずい	mazui	problematic, troublesome
+39	1	上下	jouge	top and bottom
+39	1	生	nama	raw, fresh
+39	1	よける	yokeru	avoid, dodge
+39	2	がやがや	gayagaya	noisily, loudly
+39	2	赤ん坊	akanbou	(human) baby
+39	2	ワープロ	waapuro	word processor
+39	2	新聞社	shinbunsha	newspaper publisher
+39	2	寝かす	nekasu	put (someone) to bed
+39	2	者	mono	person (humble)
+39	2	中	chuu	middle, medium size
+39	2	性	sei	gender, sexual activities
+39	2	会	kai	meeting, association
+39	2	事	koto	thing, incident
+39	3	今日	konnichi	these days
+39	3	点	ten	point (of concern), dot
+39	3	バック	bakku	back, reverse
+39	3	記事	kiji	article, story
+39	3	大	dai	big, large size
+39	3	法	hou	law, rule
+39	3	非常	hijou	emergency
+39	3	ただ	tada	simply, merely
+39	3	感じ	kanji	feeling, impression
+39	3	環境	kankyou	environment, surroundings
+39	4	理解	rikai	understanding, comprehension
+39	4	県	ken	prefecture
+39	4	使用	shiyou	use
+39	4	主義	shugi	principle, -ism
+39	4	国民	kokumin	citizen
+39	4	下	moto	under (someone’s) supervision
+39	4	場	ba	occasion, situation
+39	4	労働	roudou	labor, work
+39	4	機会	kikai	opportunity, chance
+39	4	製品	seihin	product, manufactured goods
+39	5	自身	jishin	self
+39	5	かかる	kakaru	catch (a cold, etc.), come down with
+39	5	求める	motomeru	seek, yearn for
+39	5	下さる	kudasaru	give (honorific)
+39	5	昨日	sakujitsu	yesterday (formal)
+39	5	元	moto	origin, former
+39	5	型	kata	type, model
+39	5	それぞれ	sorezore	each, respectively
+39	5	地方	chihou	local region
+39	5	面	men	surface, side
+39	6	実は	jitsuha	actually
+39	6	夜	yoru	night, evening
+39	6	地	chi	ground, place
+39	6	議論	giron	discussion, debate
+39	6	以前	izen	before, ago
+39	6	専門	senmon	specialty, profession
+39	6	申し上げる	moushiageru	tell, say (humble)
+39	6	行動	koudou	action, conduct
+39	6	率	ritsu	ratio, rate
+39	6	監督	kantoku	supervisor, film director
+39	7	意識	ishiki	consciousness, awareness
+39	7	認める	mitomeru	recognize, permit
+39	7	参考	sankou	reference, consultation
+39	7	チーム	chiimu	team
+39	7	現実	genjitsu	reality
+39	7	価値	kachi	value, worth
+39	7	テーマ	teema	theme, subject matter
+39	7	含む	fukumu	contain, include
+39	7	際	sai	opportunity, time
+39	7	全て	subete	all, everything
+40	1	大臣	daijin	minister
+40	1	国家	kokka	state, nation
+40	1	試合	shiai	match, game
+40	1	結局	kekkyoku	after all, finally
+40	1	消費	shouhi	consumption, spending
+40	1	人生	jinsei	one’s life (to lead)
+40	1	量	ryou	quantity, amount
+40	1	精神	seishin	mind, mentality
+40	1	レベル	reberu	level
+40	1	我々	wareware	we (literary)
+40	2	指導	shidou	guide, instruction
+40	2	明日	myounichi	tomorrow (very formal)
+40	2	資料	shiryou	materials, data
+40	2	団体	dantai	group, organization
+40	2	最も	mottomo	the most
+40	2	完全	kanzen	perfect, complete
+40	2	品	shina	goods, item
+40	2	男性	dansei	male, man
+40	2	軍	gun	military
+40	2	描く	egaku	depict, draw
+40	3	最終	saishuu	final, last (of something repeated)
+40	3	センター	sentaa	center (for an activity, etc.), hub
+40	3	障害	shougai	obstacle, disorder
+40	3	医療	iryou	medical service, healthcare
+40	3	頂く	itadaku	receive, eat (humble)
+40	3	金融	kinyuu	finance
+40	3	学ぶ	manabu	learn, study
+40	3	成長	seichou	growth
+40	3	登場	toujou	appearance (on stage, etc.)
+40	3	知識	chishiki	knowledge
+40	4	友人	yuujin	friend (formal)
+40	4	イメージ	imeeji	image
+40	4	トップ	toppu	top, the best
+40	4	税	zei	tax
+40	4	変更	henkou	alteration, change
+40	4	限り	kagiri	limit
+40	4	式	shiki	ceremony
+40	4	展開	tenkai	development, storyline (plot)
+40	4	興味	kyoumi	interest
+40	4	含める	fukumeru	include
+40	5	編集	henshuu	editing
+40	5	選択	sentaku	selection, choice
+40	5	無料	muryou	no charge, free
+40	5	身	mi	body, oneself, one’s status
+40	5	分析	bunseki	analysis
+40	5	予算	yosan	budget
+40	5	目標	mokuhyou	target, goal
+40	5	通信	tsuushin	correspondence, communication
+40	5	向ける	mukeru	turn toward, point at
+40	5	時刻	jikoku	time (formal)
+40	6	逆	gyaku	reverse, opposite
+40	6	最高	saikou	supreme, best
+40	6	利益	rieki	profit, benefit
+40	6	事務	jimu	office work, business
+40	6	出版	shuppan	publishing, publication
+40	6	プロ	puro	professional
+40	6	様々	samazama	various, diverse
+40	6	州	shuu	state, province
+40	6	共通	kyoutsuu	commonality
+40	6	現代	gendai	present age, modern times
+40	7	被害	higai	damage, harm
+40	7	新た	arata	new, fresh
+40	7	相当	soutou	suitability, equivalence
+40	7	更新	koushin	renewal, update
+40	7	得る	eru	obtain, gain
+40	7	内	uchi	inside
+40	7	維持	iji	maintenance, upkeep
+40	7	料金	ryoukin	charge, fee (for using facilities, etc.)
+40	7	到着	touchaku	arrival
+40	7	なま物	namamono	uncooked food
+41	1	章	shou	chapter
+41	1	メンバー	menbaa	member
+41	1	演奏	ensou	musical performance
+41	1	案	an	plan, idea
+41	1	希望	kibou	hope, wish
+41	1	記憶	kioku	memory, remembrance
+41	1	モデル	moderu	model
+41	1	方々	katagata	people (polite)
+41	1	発売	hatsubai	launch, release (of a product)
+41	1	話題	wadai	topic of conversation, being talked about
+41	2	目指す	mezasu	aim for
+41	2	建築	kenchiku	construction, architecture
+41	2	印象	inshou	impression
+41	2	権利	kenri	right, privilege
+41	2	学習	gakushuu	study, learning
+41	2	発展	hatten	development, expansion
+41	2	現場	genba	scene, job site
+41	2	気分	kibun	feeling, mood
+41	2	移動	idou	movement, shift
+41	2	発行	hakkou	publication, issue
+41	3	宗教	shuukyou	religion
+41	3	改正	kaisei	revision, amendment
+41	3	倍	bai	double, times
+41	3	不安	fuan	uneasy, worried
+41	3	自ら	mizukara	(for) oneself, personally
+41	3	広告	koukoku	advertisement
+41	3	共同	kyoudou	joint, cooperation
+41	3	年代	nendai	generation, era
+41	3	タイプ	taipu	type
+41	3	差	sa	difference
+41	4	営業	eigyou	business, sales
+41	4	役割	yakuwari	role, duty, responsibility
+41	4	改善	kaizen	improvement
+41	4	撮影	satsuei	photographing, shoot
+41	4	エネルギー	enerugii	energy
+41	4	憲法	kenpou	constitution, constitutional law
+41	4	感謝	kansha	gratitude, thanks
+41	4	感覚	kankaku	sense, feel
+41	4	旅	tabi	journey, travel
+41	4	合わせる	awaseru	match (something), adapt (oneself)
+41	5	既に	sudeni	already
+41	5	現状	genjou	current condition, situation
+41	5	先日	senjitsu	the other day, a few days ago
+41	5	中央	chuuou	center, middle
+41	5	似る	niru	resemble, be alike
+41	5	平均	heikin	average
+41	5	末	sue	the end, in the end
+41	5	追加	tsuika	addition, supplement
+41	5	なさる	nasaru	do (honorific)
+41	5	様子	yousu	the state of affairs, how someone appears
+41	6	活用	katsuyou	practical use, application
+41	6	交換	koukan	exchange, bartering
+41	6	整備	seibi	maintenance
+41	6	想像	souzou	imagination
+41	6	ああ	aa	like that, that much
+41	6	満足	manzoku	satisfaction, contentment
+41	6	以降	ikou	thereafter, later than
+41	6	比較	hikaku	comparison
+41	6	クラス	kurasu	class, category
+41	6	犯罪	hanzai	offense, crime
+41	7	おっしゃる	ossharu	say, tell (honorific)
+41	7	特定	tokutei	specifying, identifying
+41	7	基礎	kiso	base, foundation
+41	7	流れ	nagare	flow, stream
+41	7	どうも	doumo	for no special reason, somehow
+41	7	村	mura	village
+41	7	安定	antei	stability, composure
+41	7	本人	honnin	the person himself, the said person
+41	7	雰囲気	funiki	atmosphere, mood
+41	7	会場	kaijou	venue, site
+42	1	電子	denshi	electron, electronic
+42	1	文	bun	sentence
+42	1	範囲	hani	range, scope
+42	1	常に	tsuneni	always, at all times (formal)
+42	1	失う	ushinau	lose, miss
+42	1	日常	nichijou	everyday life, daily life
+42	1	回答	kaitou	reply, answer
+42	1	体制	taisei	system, structure
+42	1	調整	chousei	regulation, adjustment
+42	1	疑問	gimon	question, doubt
+42	2	応援	ouen	support, cheering
+42	2	感想	kansou	thought, impression
+42	2	解説	kaisetsu	explanation, commentary
+42	2	シリーズ	shiriizu	series
+42	2	公共	koukyou	public, community
+42	2	民間	minkan	private, civilian
+42	2	裁判	saiban	trial, judgment
+42	2	組合	kumiai	union, guild
+42	2	本来	honrai	originally, primarily
+42	2	一体	ittai	what on earth
+42	3	宇宙	uchuu	universe, space
+42	3	申す	mousu	say, tell (humble)
+42	3	図	zu	figure, diagram
+42	3	クラブ	kurabu	club
+42	3	観光	kankou	sightseeing
+42	3	提出	teishutsu	presentation, submission (of a report, plan, etc.)
+42	3	以来	irai	since then
+42	3	離れる	hanareru	get away from
+42	3	生	sei	life, living
+42	3	性格	seikaku	character, personality
+42	4	検査	kensa	inspection, examination
+42	4	信頼	shinrai	reliance, trust
+42	4	人物	jinbutsu	character, person
+42	4	触れる	fureru	touch, come in contact with
+42	4	記念	kinen	commemoration, memory
+42	4	役	yaku	role, part
+42	4	費用	hiyou	expense, cost
+42	4	指定	shitei	designation, appointment
+42	4	感情	kanjou	feeling, emotion
+42	4	空	kara	emptiness, hollow
+42	5	関わる	kakawaru	be involved, be concerned
+42	5	仲間	nakama	comrade, peer
+42	5	整理	seiri	putting something in order, sorting out
+42	5	至る	itaru	come to, reach
+42	5	独立	dokuritsu	independence, self-reliance
+42	5	賞	shou	prize, award
+42	5	誕生	tanjou	birth
+42	5	いらっしゃる	irassharu	come, go (honorific)
+42	5	都	to	metropolis of Tokyo
+42	5	全員	zenin	all members, entire staff
+42	6	明確	meikaku	clear and specific
+42	6	少なくとも	sukunakutomo	at least, at a minimum
+42	6	セット	setto	set
+42	6	魅力	miryoku	charm, attraction
+42	6	きちんと	kichinto	properly, neatly
+42	6	手段	shudan	means, way
+42	6	有効	yuukou	effective, valid
+42	6	集中	shuuchuu	concentration, convergence
+42	6	現象	genshou	phenomenon
+42	6	感動	kandou	to be impressed, to be touched
+42	7	禁止	kinshi	prohibition, forbiddance
+42	7	会員	kaiin	member (of an association, society, etc.)
+42	7	過ごす	sugosu	spend (time)
+42	7	納得	nattoku	to fully understand and accept
+42	7	収入	shuunyuu	income
+42	7	レポート	repooto	report, paper
+42	7	年齢	nenrei	age
+42	7	舞台	butai	stage, setting
+42	7	交通	koutsuu	traffic, transportation
+42	7	他人	tanin	other people, stranger
+43	1	組	kumi	school class, group, pair
+43	1	否定	hitei	denial, negation
+43	1	扱う	atsukau	handle, deal with
+43	1	修正	shuusei	correction, revision
+43	1	一応	ichiou	tentatively, just in case
+43	1	生じる	shoujiru	happen, occur
+43	1	訪問	houmon	visit
+43	1	引用	inyou	quotation, citation
+43	1	芸術	geijutsu	art, arts and crafts
+43	1	解釈	kaishaku	interpretation, explanation
+43	2	行	gyou	line, row
+43	2	結論	ketsuron	conclusion
+43	2	困難	konnan	difficulty, hardship
+43	2	回復	kaifuku	recovery, recuperation
+43	2	適用	tekiyou	application, coverage
+43	2	集団	shuudan	group, mass
+43	2	事態	jitai	situation, state of affairs
+43	2	スタート	sutaato	start, begin
+43	2	更に	sarani	furthermore, still more
+43	2	活躍	katsuyaku	(successful) performance, action
+43	3	命	inochi	life (colloquial)
+43	3	医師	ishi	doctor, physician (formal)
+43	3	おる	oru	be present, stay (humble)
+43	3	現れる	arawareru	appear, emerge
+43	3	講演	kouen	lecture, talk
+43	3	瞬間	shunkan	moment
+43	3	交流	kouryuu	interaction, contact
+43	3	標準	hyoujun	standard, norm
+43	3	まるで	marude	just like
+43	3	スタイル	sutairu	style, physique
+43	4	関心	kanshin	concern, interest
+43	4	取り上げる	toriageru	take, confiscate
+43	4	伝統	dentou	tradition
+43	4	民主	minshu	democracy
+43	4	制限	seigen	restriction, limit
+43	4	投票	touhyou	vote, ballot
+43	4	心理	shinri	mentality, psychology
+43	4	大体	daitai	about, anyway
+43	4	突然	totsuzen	suddenly
+43	4	思想	shisou	thought, conception
+43	5	応じる	oujiru	answer, comply with
+43	5	不足	fusoku	lack, shortage
+43	5	コード	koodo	cord
+43	5	世の中	yononaka	the world, society
+43	5	項目	koumoku	item, topic
+43	5	旧	kyuu	old, former
+43	5	次第	shidai	as soon as
+43	5	長期	chouki	long period
+43	5	著者	chosha	author, writer
+43	5	罪	tsumi	crime, sin
+43	6	楽	raku	comfortable, easy
+43	6	操作	sousa	operation, manipulation
+43	6	支配	shihai	control, rule
+43	6	態度	taido	attitude
+43	6	過程	katei	process, course
+43	6	バランス	baransu	balance
+43	6	連続	renzoku	continuation, series
+43	6	機関	kikan	agency, facility
+43	6	論	ron	argument, theory
+43	6	島	tou	island
