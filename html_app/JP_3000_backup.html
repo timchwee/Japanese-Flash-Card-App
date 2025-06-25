@@ -3280,7 +3280,6 @@
 43,6,機関,kikan,"agency, facility"
 43,6,論,ron,"argument, theory"
 43,6,島,tou,island
-
 `;
 
         // DOM elements (references to HTML elements by their ID)
@@ -3294,7 +3293,7 @@
         const messageBox = document.getElementById('messageBox');
         const messageContent = document.getElementById('messageContent');
         const closeMessageBox = document.getElementById('closeMessageBox');
-        const daySelector = document.getElementById('daySelector'); // Reference to the dropdown
+        const daySelector = document.getElementById('daySelector'); // NEW: Reference to the dropdown
 
         // Global variables to manage app state
         let csvData = []; // Stores all parsed flashcard data, globally sorted
@@ -3302,7 +3301,7 @@
         let currentCardIndex = 0; // Tracks the current card being displayed within the day's set
         let flashcardsForDay = []; // Stores the 10 flashcard objects for the current logical day
         const CARDS_PER_DAY = 10; // Constant defining how many cards are in a day's set
-        let totalAvailableDays = 0; // Store the total number of logical days
+        let totalAvailableDays = 0; // NEW: Store the total number of logical days
 
         /**
          * Displays a custom message box.
@@ -3452,8 +3451,8 @@
             const storedDay = localStorage.getItem('flashcardCurrentDay');
             currentDay = storedDay ? parseInt(storedDay) : 1;
 
-            populateDaySelector(); // Populate the dropdown on app initialization
-            daySelector.addEventListener('change', handleDaySelectChange); // Add listener to dropdown
+            populateDaySelector(); // NEW: Populate the dropdown on app initialization
+            daySelector.addEventListener('change', handleDaySelectChange); // NEW: Add listener to dropdown
 
             loadDayCards(); // Load the specific cards for the determined current day
             currentCardIndex = 0; // Always start at the first card of the loaded day
@@ -3562,34 +3561,25 @@
             dayInfo.textContent = `Day ${currentDay} - Card ${currentCardIndex + 1}/${flashcardsForDay.length}`;
 
             // --- Button Logic: Dynamically change button text and what they do ---
+            if (currentCardIndex === flashcardsForDay.length - 1) { // If it's the LAST card of the day
+                backButton.textContent = `Restart Day ${currentDay}`;
+                backButton.onclick = handleRestartDayClick; // Assign 'Back' to restart the current day
 
-            // Logic for the 'Back' button
-            if (currentCardIndex === 0) { // If it's the very first card of the current day
-                if (currentDay > 1) { // And it's not Day 1
-                    backButton.textContent = `Revisit Day ${currentDay - 1}`;
-                    backButton.onclick = handleRevisitPreviousDayClick; // New handler for going back a day
-                    backButton.disabled = false; // Enable the button
-                } else { // It's Day 1, Card 1
-                    backButton.textContent = 'Back'; // Keep generic 'Back'
-                    backButton.onclick = handleBackClick; // Assign regular back click (which will be disabled)
-                    backButton.disabled = true; // Disable it as there's no previous card/day
-                }
-            } else { // If it's not the first card of the day (i.e., we're in the middle of a day's set)
-                backButton.textContent = 'Back';
-                backButton.onclick = handleBackClick; // Assign regular 'Back' behavior
-                backButton.disabled = false; // Enable it as there are previous cards in the current day
-            }
-
-
-            // Logic for the 'Next' button (remains largely the same)
-            if (currentCardIndex === flashcardsForDay.length - 1) { // If it's the LAST card of the current day
                 nextButton.textContent = `Start Day ${currentDay + 1}`;
                 nextButton.onclick = handleNextDayClick; // Assign 'Next' to move to the next day
+
+                backButton.disabled = false; // Restart is always an option on the last card
                 // Next button should be disabled if we are on the very last day of all data
                 nextButton.disabled = currentDay >= totalAvailableDays;
-            } else { // If it's NOT the last card of the current day
+
+            } else { // If it's NOT the last card of the day (i.e., we're in the middle of a day's set)
+                backButton.textContent = 'Back';
+                backButton.onclick = handleBackClick; // Assign 'Back' behavior
                 nextButton.textContent = 'Next';
-                nextButton.onclick = handleNextClick; // Assign regular 'Next' behavior
+                nextButton.onclick = handleNextClick; // Assign 'Next' behavior
+
+                // Disable 'Back' if we're on the very first card of the day
+                backButton.disabled = currentCardIndex === 0;
                 nextButton.disabled = false; // 'Next' is always enabled unless it's the last card (handled by the if-block)
             }
 
@@ -3602,7 +3592,7 @@
          */
         function handleBackClick() {
             if (currentCardIndex > 0) {
-                showCard(currentCardIndex - 1); // Go to the previous card within the current day
+                showCard(currentCardIndex - 1); // Go to the previous card
             }
         }
 
@@ -3611,32 +3601,16 @@
          */
         function handleNextClick() {
             if (currentCardIndex < flashcardsForDay.length - 1) {
-                showCard(currentCardIndex + 1); // Go to the next card within the current day
+                showCard(currentCardIndex + 1); // Go to the next card
             }
         }
 
         /**
          * Handles the click event for the 'Restart Day N' button.
-         * NOTE: This behavior is now primarily used when the user clicks 'Back' on the last card of a day.
-         * The 'Revisit Day N-1' takes precedence on the first card of a new day.
          */
         function handleRestartDayClick() {
             currentCardIndex = 0; // Reset to the first card of the current day
             showCard(currentCardIndex); // Display it
-        }
-
-        /**
-         * NEW: Handles the click event for the 'Revisit Day N-1' button.
-         * This function moves the user back to the previous logical day.
-         */
-        function handleRevisitPreviousDayClick() {
-            if (currentDay > 1) {
-                currentDay--; // Decrement to the previous logical day
-                localStorage.setItem('flashcardCurrentDay', currentDay); // Save the new day
-                currentCardIndex = 0; // Start at the first card of the previous day
-                loadDayCards(); // Load cards for the previous day
-                showCard(currentCardIndex); // Display the first card
-            }
         }
 
         /**
